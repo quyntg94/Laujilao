@@ -1,14 +1,14 @@
 ﻿{
     "food": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Cánh gà nướng mật ong",
             "imageShow" : "http://i.imgur.com/EwP1jxq.jpg",
             "type": "Món chính",
             "time": "1 giờ",
-            "set": "5",
+            "set": 5,
             "level": "Trung Bình",
-            "rating": "4",
+            "rating": 4,
             "material": [
                 {
                     "matName": "Cánh gà",

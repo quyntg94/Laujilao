@@ -3,6 +3,8 @@ from flask_restful import Resource, Api, reqparse
 import json
 import codecs
 import os
+import mlab
+from mongoengine import *
 
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -19,4 +21,4 @@ class FoodListRes(Resource):
 api.add_resource(FoodListRes, "/api/food")
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=2612)

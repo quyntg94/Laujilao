@@ -4,7 +4,6 @@ import json
 import codecs
 import os
 
-
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
 FOOD_PATH = os.path.join(APP_ROOT, "food.json")
 

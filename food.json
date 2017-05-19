@@ -1,0 +1,65 @@
+﻿{
+    "food": [
+        {
+            "id": "01",
+            "name": "Cánh gà nướng mật ong",
+            "type": "Món chính",
+            "time": "1 giờ",
+            "set": "5",
+            "level": "Trung Bình",
+            "rating": "4",
+            "material": [
+                {
+                    "matName": "Cánh gà",
+                    "matQuantum": "10 cái"
+                },
+                {
+                    "matName": "Mật ong",
+                    "matQuantum": "30 ml"
+                },
+                {
+                    "matName": "Dầu hào",
+                    "matQuantum": "15 ml"
+                },
+                {
+                    "matName": "Dầu ăn",
+                    "matQuantum": "7 ml"
+                },
+                {
+                    "matName": "Muối",
+                    "matQuantum": "5 gr"
+                },
+                {
+                    "matName": "Nước tương",
+                    "matQuantum": "15 ml"
+                },
+                {
+                    "matName": "Tỏi băm",
+                    "matQuantum": "2 muỗng cà phê"
+                },
+                {
+                    "matName": "Tiêu",
+                    "matQuantum": "10 gr"
+                }
+            ],
+            "cook": [
+                {
+                    "image": "http://i.imgur.com/iVCIaYP.jpg",
+                    "note": "Ngâm cánh gà trong nước sạch 30 phút, sau đó vớt ra, thấm khô bằng giấy. Trộn cánh gà và với dầu hào, dầu ăn, nước tương, muối, tỏi băm, tiêu, rồi bọc tô thịt gà lại bằng màng bọc thực phẩm. Cho vào tủ lạnh ít nhất 4 giờ hoặc qua đêm."
+                },
+                {
+                    "image": "http://i.imgur.com/Ms4K36P.jpg",
+                    "note": "Sau đó, cho cánh gà vào lò nướng, bến dưới giá đỡ có lót giấy bạc để nước thịt già không chị chảy vào lò nướng. Cho mật ong vào nước ấm hòa tan sau đó phết đều lên mặt cánh gà."
+                },
+                {
+                    "image": "http://i.imgur.com/wRsuhOC.jpg",
+                    "note": "Bật lò nướng ở nhiệt độ 390 độ F trong 15 phút. Sau đó, lật cánh gà, dùng cọ quét nước mật ong lên một lần nữa rồi nướng trong 10 phút là được."
+                },
+                {
+                    "image": "http://i.imgur.com/EwP1jxq.jpg",
+                    "note": "Giờ chỉ việc thưởng thức món cánh gà nướng mật ong, tỏi thôi!"
+                }
+            ]
+        }
+    ]
+}

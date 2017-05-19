@@ -1,0 +1,529 @@
+﻿{
+    "guesthouse": [
+        {
+            "id": "01",
+            "name": "Nhà Nghỉ Quang Anh",
+            "address": "18 Phan Văn Trị, Quốc Tử Giám, Đống Đa, Hà Nội, Việt Nam",
+            "phone": "0986 755 105",
+            "latitude": "21.007201",
+            "longitude": "105.825949",
+            "state": "full",
+            "totalService": "2",
+            "service": [
+                {
+                    "typeService": "ac"
+                },
+                {
+                    "typeService": "cash"
+                }
+            ],
+            "roomNumber": "3",
+            "room": [
+                {
+                    "roomName": "1",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        }
+                    ],
+                    "price": "100.000 - 200.000d",
+                    "numberService": "1",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "2",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        }
+                    ],
+                    "price": "200.000 - 300.000d",
+                    "numberService": "1",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "3",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        }
+                    ],
+                    "price": "300.000 - 400.000d",
+                    "numberService": "2",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "name": "Nhà Nghỉ Đông Dương",
+            "address": "251 Chùa Bộc, Trung Liệt, Đống Đa, Hà Nội, Việt Nam",
+            "phone": "0986 755 105",
+            "latitude": "21.008939",
+            "longitude": "105.825351",
+            "state": "normal",
+            "totalService": "3",
+            "service": [
+                {
+                    "typeService": "ac"
+                },
+                {
+                    "typeService": "cash"
+                },
+                {
+                    "typeService": "condom"
+                }
+            ],
+            "roomNumber": "3",
+            "room": [
+                {
+                    "roomName": "1",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        }
+                    ],
+                    "price": "100.000 - 200.000d",
+                    "numberService": "2",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "2",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        }
+                    ],
+                    "price": "200.000 - 300.000d",
+                    "numberService": "2",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "3",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        }
+                    ],
+                    "price": "300.000 - 400.000d",
+                    "numberService": "3",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "name": "Nhà Nghỉ ",
+            "address": "74 ngõ 95 - 8, Chùa Bộc, Quận Đống Đa, Hà Nội",
+            "phone": "0986 755 105",
+            "latitude": "21.008493",
+            "longitude": "105.825959",
+            "state": "clear",
+            "totalService": "4",
+            "service": [
+                {
+                    "typeService": "ac"
+                },
+                {
+                    "typeService": "cash"
+                },
+                {
+                    "typeService": "condom"
+                },
+                {
+                    "typeService": "food"
+                }
+            ],
+            "roomNumber": "3",
+            "room": [
+                {
+                    "roomName": "1",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        }
+                    ],
+                    "price": "100.000 - 200.000d",
+                    "numberService": "3",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "2",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        }
+                    ],
+                    "price": "200.000 - 300.000d",
+                    "numberService": "3",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "3",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        }
+                    ],
+                    "price": "300.000 - 400.000d",
+                    "numberService": "4",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        },
+                        {
+                            "type": "food"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "04",
+            "name": "Khách sạn Hoa Hồng",
+            "address": "số 25 ngõ 43, Chùa Bộc, Quận Đống Đa, Hà Nội",
+            "phone": "0986 755 105",
+            "latitude": "21.005676",
+            "longitude": "105.829117",
+            "state": "normal",
+            "totalService": "5",
+            "service": [
+                {
+                    "typeService": "ac"
+                },
+                {
+                    "typeService": "cash"
+                },
+                {
+                    "typeService": "condom"
+                },
+                {
+                    "typeService": "food"
+                },
+                {
+                    "typeService": "shower"
+                }
+            ],
+            "roomNumber": "3",
+            "room": [
+                {
+                    "roomName": "1",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        }
+                    ],
+                    "price": "100.000 - 200.000d",
+                    "numberService": "4",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        },
+                        {
+                            "type": "food"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "2",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        }
+                    ],
+                    "price": "200.000 - 300.000d",
+                    "numberService": "4",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        },
+                        {
+                            "type": "food"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "3",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        }
+                    ],
+                    "price": "300.000 - 400.000d",
+                    "numberService": "5",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        },
+                        {
+                            "type": "food"
+                        },
+                        {
+                            "type": "shower"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "05",
+            "name": "Nhà khách Bình Minh",
+            "address": "8 ngõ 95, Chùa Bộc, Quận Đống Đa, Hà Nội",
+            "phone": "0986 755 105",
+            "latitude": "21.006909",
+            "longitude": "105.828493",
+            "state": "full",
+            "totalService": "6",
+            "service": [
+                {
+                    "typeService": "ac"
+                },
+                {
+                    "typeService": "cash"
+                },
+                {
+                    "typeService": "condom"
+                },
+                {
+                    "typeService": "food"
+                },
+                {
+                    "typeService": "shower"
+                },
+                {
+                    "typeService": "wifi"
+                }
+            ],
+            "roomNumber": "3",
+            "room": [
+                {
+                    "roomName": "1",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        }
+                    ],
+                    "price": "100.000 - 200.000d",
+                    "numberService": "5",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        },
+                        {
+                            "type": "food"
+                        },
+                        {
+                            "type": "shower"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "2",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/wnMQlF8.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        }
+                    ],
+                    "price": "200.000 - 300.000d",
+                    "numberService": "5",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        },
+                        {
+                            "type": "food"
+                        },
+                        {
+                            "type": "shower"
+                        }
+                    ]
+                },
+                {
+                    "roomName": "3",
+                    "numberImage": "2",
+                    "image": [
+                        {
+                            "link": "http://i.imgur.com/yiXge8b.jpg"
+                        },
+                        {
+                            "link": "http://i.imgur.com/dvXXdTe.jpg"
+                        }
+                    ],
+                    "price": "300.000 - 400.000d",
+                    "numberService": "6",
+                    "roomService": [
+                        {
+                            "type": "ac"
+                        },
+                        {
+                            "type": "cash"
+                        },
+                        {
+                            "type": "condom"
+                        },
+                        {
+                            "type": "food"
+                        },
+                        {
+                            "type": "shower"
+                        },
+                        {
+                            "type": "wifi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

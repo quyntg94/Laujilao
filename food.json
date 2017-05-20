@@ -3,12 +3,13 @@
         {
             "id": 1,
             "name": "Cánh gà nướng mật ong",
+            "author": "Gao Đỏ",
             "imageShow" : "http://i.imgur.com/EwP1jxq.jpg",
             "type": "Món chính",
             "time": "1 giờ",
             "set": 5,
             "level": "Trung Bình",
-            "rating": 4,
+            "rating": 8,
             "material": [
                 {
                     "matName": "Cánh gà",
@@ -61,6 +62,124 @@
                     "note": "Giờ chỉ việc thưởng thức món cánh gà nướng mật ong, tỏi thôi!"
                 }
             ]
-        }
+        },
+        {
+            "id": 2,
+            "name": "Xôi cuộn chà bông và bánh quẩy",
+            "author": "Gao Vàng",
+            "imageShow" : "http://i.imgur.com/hU1kL0S.jpg",
+            "type": "Món chính",
+            "time": "40 phút",
+            "set": 3,
+            "level": "Trung Bình",
+            "rating": 7,
+            "material": [
+                {
+                    "matName": "Gạo nếp",
+                    "matQuantum": "300 gr"
+                },
+                {
+                    "matName": "Chà bông",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Bánh quẩy",
+                    "matQuantum": "4 cái"
+                },
+                {
+                    "matName": "Củ cải muối",
+                    "matQuantum": "50 gr"
+                }
+            ],
+            "cook": [
+                {
+                    "image": "http://i.imgur.com/b1CmsKh.jpg",
+                    "note": "Ngâm nếp trước 1 đêm, hôm sau cho vào nồi hấp nấu như nấu xôi bình thường nhé."
+                },
+                {
+                    "image": "http://i.imgur.com/iZJRFzm.jpg",
+                    "note": "Củ cải muối, mua về cho ra rổ, xả qua nước để bớt mặn, để ráo. Chuẩn bị quẩy để cuốn."
+                },
+                {
+                    "image": "http://i.imgur.com/hnx01ny.jpg",
+                    "note": "Trải màn thực phẩm ra mặt phẳng rồi dàn đều xôi hình vuông hay chữ nhật lên trên. Sau đó, dàn ruốc lên mặt nếp, tiếp đến đặt quẩy vào giữa."
+                },
+                {
+                    "image": "http://i.imgur.com/Pd1z6C3.jpg",
+                    "note": "Rồi cuộn lại thật chặt như cuộn sushi vậy nhá! Sau khi cuộn, túm và xoắn chặt 2 đầu cuộn xôi."
+                },
+                {
+                    "image": "http://i.imgur.com/jlRmqOW.jpg",
+                    "note": "Cuối cùng dùng dao thiệt bén mình cắt từng lát nhỏ vừa ăn. Món này dùng để ăn sáng cũng hay lắm đó!"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chè thưng",
+            "author": "Gao Xanh",
+            "imageShow" : "http://i.imgur.com/tM2xGdc.jpg",
+            "type": "Món ăn vặt",
+            "time": "30 phút",
+            "set": 4,
+            "level": "Dễ",
+            "rating": 9,
+            "material": [
+                {
+                    "matName": "Đậu xanh không vỏ",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Đậu phộng",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Bột khoai",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Bột báng",
+                    "matQuantum": "50 gr"
+                },
+                {
+                    "matName": "Nấm mèo",
+                    "matQuantum": "20 gr"
+                },
+                {
+                    "matName": "Đường trắng",
+                    "matQuantum": "400 gr"
+                },
+                {
+                    "matName": "Nước cốt dừa",
+                    "matQuantum": "400 ml"
+                },
+                {
+                    "matName": "Lá dứa",
+                    "matQuantum": "10 lá"
+                },
+                {
+                    "matName": "Muối",
+                    "matQuantum": "1/3 muỗng cà phê"
+                }
+            ],
+            "cook": [
+                {
+                    "image": "http://i.imgur.com/i9iUPSa.jpg",
+                    "note": "Chuẩn bị tất cả các nguyên liệu cho món chè. Lá dứa rửa sạch từng cọng bó lại."
+                },
+                {
+                    "image": "http://i.imgur.com/ilkq0yc.jpg",
+                    "note": "Đậu xanh ngâm nước 20 phút rửa sạch rồi đem hấp chín. Đậu phộng ngâm nước 30 phút rửa sạch rồi luộc cho đậu mềm (không lột vỏ đậu). Nấm mèo ngâm nở cắt sợi lớn. Bột báng và bột khoai cho vào nồi với nước nấu sôi cho đến khi thấy bột nở trong (nấu riêng mỗi thứ) rồi đem ra rửa lại với nước."
+                },
+                {
+                    "image": "http://i.imgur.com/zcUE2rA.jpg",
+                    "note": "Cho vào nồi 1 lon nước cốt dừa và 2 lon nước lạnh (lấy lon nước dừa đong nha), rồi cho bột khoai, đậu phộng và bó lá dứa vào nấu cùng (lửa nhỏ vừa). Khi thấy bột khoai, đậu phộng mềm thì cho đường vào (gia giảm lượng đường theo khẩu vị gia đình), sau đó cho bột báng, đậu xanh, nấm mèo và muối vào. Lúc này chỉ khuấy nhẹ tay không thôi đậu nát, chè sôi lại tắt bếp."
+                },
+                {
+                    "image": "http://i.imgur.com/nFElWFQ.jpg",
+                    "note": "Chè thưng có thể kết hợp nhiều nguyên liệu để nấu như : hạt sen, đậu trắng, khoai lang, khoai môn, phổ tai ... Nhưng chủ đạo phải có là đậu xanh và đậu phộng."
+                }
+            ]
+        }    
     ]
 }

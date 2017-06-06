@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Cánh gà nướng mật ong",
             "author": "Gao Đỏ",
-            "imageShow" : "http://i.imgur.com/EwP1jxq.jpg",
+            "imageShow": "http://i.imgur.com/EwP1jxq.jpg",
             "type": "Món chính",
             "time": "1 giờ",
             "set": 5,
@@ -67,7 +67,7 @@
             "id": 2,
             "name": "Xôi cuộn chà bông và bánh quẩy",
             "author": "Gao Vàng",
-            "imageShow" : "http://i.imgur.com/hU1kL0S.jpg",
+            "imageShow": "http://i.imgur.com/hU1kL0S.jpg",
             "type": "Món chính",
             "time": "40 phút",
             "set": 3,
@@ -118,7 +118,7 @@
             "id": 3,
             "name": "Chè thưng",
             "author": "Gao Xanh",
-            "imageShow" : "http://i.imgur.com/tM2xGdc.jpg",
+            "imageShow": "http://i.imgur.com/tM2xGdc.jpg",
             "type": "Món ăn vặt",
             "time": "30 phút",
             "set": 4,
@@ -180,6 +180,113 @@
                     "note": "Chè thưng có thể kết hợp nhiều nguyên liệu để nấu như : hạt sen, đậu trắng, khoai lang, khoai môn, phổ tai ... Nhưng chủ đạo phải có là đậu xanh và đậu phộng."
                 }
             ]
-        }    
+        },
+        {
+            "id": 4,
+            "name": "Nem cua bể chiên",
+            "author": "Gao Đen",
+            "imageShow": "http://i.imgur.com/fDiLhC9.jpg",
+            "type": "Món chính",
+            "time": "30 phút",
+            "set": 2,
+            "level": "Dễ",
+            "rating": 9,
+            "material": [
+                {
+                    "matName": "Cua biển",
+                    "matQuantum": "300 gr"
+                },
+                {
+                    "matName": "Thịt nạc vai",
+                    "matQuantum": "300 gr"
+                },
+                {
+                    "matName": "Nấm hương",
+                    "matQuantum": "25 gr"
+                },
+                {
+                    "matName": "Hành lá",
+                    "matQuantum": "25 gr"
+                },
+                {
+                    "matName": "Trứng gà",
+                    "matQuantum": "2 quả"
+                },
+                {
+                    "matName": "Su hào",
+                    "matQuantum": "1 củ"
+                },
+                {
+                    "matName": "Hạt nêm",
+                    "matQuantum": "2 muỗng canh"
+                },
+                {
+                    "matName": "Nước mắm",
+                    "matQuantum": "4 muỗng canh"
+                },
+                {
+                    "matName": "Tiêu",
+                    "matQuantum": "1/2 muỗng cà phê"
+                },
+                {
+                    "matName": "Tôm tươi",
+                    "matQuantum": "300 gr"
+                },
+                {
+                    "matName": "Nấm mèo",
+                    "matQuantum": "25 gr"
+                },
+                {
+                    "matName": "Miến",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Ngò rí",
+                    "matQuantum": "25 gr"
+                },
+                {
+                    "matName": "Cà rốt",
+                    "matQuantum": "1 củ"
+                },
+                {
+                    "matName": "Bánh tráng",
+                    "matQuantum": "3 gói"
+                },
+                {
+                    "matName": "Đường trắng",
+                    "matQuantum": "2 muỗng canh"
+                },
+                {
+                    "matName": "Chanh",
+                    "matQuantum": "1 trái"
+                },
+                {
+                    "matName": "Dầu ăn",
+                    "matQuantum": "100 ml"
+                }
+            ],
+            "cook": [
+                {
+                    "image": "http://i.imgur.com/HqGKt9y.jpg",
+                    "note": "Cua bể hấp gỡ lấy thịt. Tôm hấp chín bóc vỏ rồi cắt thành khúc nhỏ. Miến cũng cắt thành khúc nhỏ. Nấm hương nấm mèo ngâm nở thái nhỏ, su hào, cà rốt cắt thành sợi thái nhỏ. Ngò rí, hành hoa cắt nhuyễn."
+                },
+                {
+                    "image": "http://i.imgur.com/RNPQWNP.jpg",
+                    "note": "Lấy ra một chiếc âu lớn, sau đó cho tất cả các nguyên liệu đã sơ chế xong vào chung, rồi cho trứng gà vào. Cho 1 muỗng canh hạt nêm, 1/2 muỗng cà phê tiêu và 2 muỗng canh nước mắm vào và trộn đều nguyên liệu lên."
+                },
+                {
+                    "image": "http://i.imgur.com/1i1JbpU.jpg",
+                    "note": "Lấy bánh tráng ra, dùng một ít bia hoặc giấm gạo pha loãng làm ướt bánh tráng, xếp 2 lớp bằng một cái rưỡi bánh tráng. Tiếp đến, cho nhân lên bánh tráng đã làm ướt và gói lại theo hình chữ nhật hoặc hình vuông tuỳ theo sở thích."
+                },
+                {
+                    "image": "http://i.imgur.com/VpIAN3f.jpg",
+                    "note": "Nem gói xong, cho vào chảo dầu nóng và chiên cho đến khi nem vàng đều rồi vớt nem ra đặt trên đĩa có lót sẵn giấy thấm dầu."
+                },
+                {
+                    "image": "http://i.imgur.com/cydbJ3p.jpg",
+                    "note": "Nem để ráo dầu xong, xếp lên một chiếc đĩa khác cùng với một số loại rau thơm và nước chấm là đã có món Nem Cua Bể ngon tuyệt rồi nhé! Cách làm nước chấm chua ngọt khá đơn giản: lấy cà rốt và đu đủ xanh đã rửa sạch cắt lát mỏng, sau đó chỉ cần cho một ít nước mắm, nước dùng vửa đủ, đường, hạt nêm, chanh vào chung rồi đun lên, đến khi nước sôi, để nước mắm nguội, cho đu đủ, cà rốt đã cắt mỏng vào cho ngấm. Sau đó cho ra bát, thêm ớt và tỏi để vị nước chấm nem thêm phần hấp dẫn."
+                }
+            ]
+        }
     ]
 }

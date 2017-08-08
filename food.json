@@ -287,6 +287,207 @@
                     "note": "Nem để ráo dầu xong, xếp lên một chiếc đĩa khác cùng với một số loại rau thơm và nước chấm là đã có món Nem Cua Bể ngon tuyệt rồi nhé! Cách làm nước chấm chua ngọt khá đơn giản: lấy cà rốt và đu đủ xanh đã rửa sạch cắt lát mỏng, sau đó chỉ cần cho một ít nước mắm, nước dùng vửa đủ, đường, hạt nêm, chanh vào chung rồi đun lên, đến khi nước sôi, để nước mắm nguội, cho đu đủ, cà rốt đã cắt mỏng vào cho ngấm. Sau đó cho ra bát, thêm ớt và tỏi để vị nước chấm nem thêm phần hấp dẫn."
                 }
             ]
+        },
+        {
+            "id": 5,
+            "name": "Bánh bông lan phô mai",
+            "author": "Gao Trắng",
+            "imageShow": "http://i.imgur.com/6MC3EVr.jpg",
+            "type": "Món bánh",
+            "time": "45 phút",
+            "set": 2,
+            "level": "Trung Bình",
+            "rating": 8,
+            "material": [
+                {
+                    "matName": "Kem phô mai",
+                    "matQuantum": "200 gr"
+                },
+                {
+                    "matName": "Đường trắng",
+                    "matQuantum": "20 gr"
+                },
+                {
+                    "matName": "Trứng gà",
+                    "matQuantum": "4 quả"
+                },
+                {
+                    "matName": "Kem whipping",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Bột mì",
+                    "matQuantum": "25 gr"
+                },
+                {
+                    "matName": "Nước cốt chanh",
+                    "matQuantum": "1 muỗng cà phê"
+                }
+            ],
+            "cook": [
+                {
+                    "image": "http://i.imgur.com/7SAtpxi.jpg",
+                    "note": "Để kem phô mai ở nhiệt độ phòng ít nhất 30 phút trước khi sử dụng. Cho kem phô mai vào tô cùng với 10gr đường trắng và 2 lòng đỏ trứng, đánh bông bằng phới lồng. Khi hỗn hợp mịn mượt thì rây bột mì vào."
+                },
+                {
+                    "image": "http://i.imgur.com/VPjAPKw.jpg",
+                    "note": "Sau đó, cho kem whipping vào (chia làm 2 đợt), trộn đều."
+                },
+                {
+                    "image": "http://i.imgur.com/PRIZpfz.jpg",
+                    "note": "2 quả trứng gà còn lại đập ra tô, tách lấy lòng trắng trứng. Tiếp đến, cho lòng trắng trứng, 10gr đường trắng vào, dùng máy đánh trứng đánh cho đến khi lòng trắng trứng bông cứng. Bạn có thể nhỏ vào khoảng 1 muỗng cà phê nước cốt chanh để đánh trứng được nhanh hơn."
+                },
+                {
+                    "image": "http://i.imgur.com/WXEldem.jpg",
+                    "note": "Dùng phới dẹt cho hỗn hợp lòng trắng trứng vào trộn cùng với hỗn hợp bột và lòng đỏ bằng kĩ thuật fold. Lưu ý, là trộn thật nhẹ nhàng để tránh vỡ bọt khí nhé."
+                },
+                {
+                    "image": "http://i.imgur.com/qSWFVAR.jpg",
+                    "note": "Đổ hỗn hợp bột vào nồi cơm điện, vỗ nhẹ nồi xuống mặt đất cho bột phẳng. Có thể sử dụng hỗn hợp chocolate đun chảy để tạo hoa văn cho bánh như hình. Cho vào nồi cơm điện, bật chế độ nấu (Cook), khi nồi chuyển sang chế độ giữ ấm (Warm) thì để bánh thêm 20 phút nữa. Mở nắp, dùng tăm để kiểm tra bánh đã chín hay chưa. Nếu tăm vẫn còn ướt thì bạn nhấn nút Cook thêm lần nữa."
+                },
+                {
+                    "image": "http://i.imgur.com/5o1O5kL.jpg",
+                    "note": "Chẳng cần tới lò nướng bạn hoàn toàn có thể làm bánh bông lan phô mai bằng nồi cơm điện mà vẫn mịn mượt, bông xốp đẹp mắt như thường đấy. Bánh có hương vị thơm béo đặc trưng của phô mai ăn rất dễ ghiền đấy nha."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Bánh mì bơ tỏi kẹp xúc xích",
+            "author": "Gao Bạc",
+            "imageShow": "http://i.imgur.com/icq3Q9R.jpg",
+            "type": "Món ăn sáng",
+            "time": "30 phút",
+            "set": 2,
+            "level": "Dễ",
+            "rating": 8,
+            "material": [
+                {
+                    "matName": "Tỏi băm",
+                    "matQuantum": "50 gr"
+                },
+                {
+                    "matName": "Bánh mì sandwich",
+                    "matQuantum": "4 lát"
+                },
+                {
+                    "matName": "Bơ lạt",
+                    "matQuantum": "1 muỗng canh"
+                },
+                {
+                    "matName": "Ngò rí",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Xà lách",
+                    "matQuantum": "100 gr"
+                },
+                {
+                    "matName": "Cà chua bi",
+                    "matQuantum": "6 trái"
+                },
+                {
+                    "matName": "Xúc xích",
+                    "matQuantum": "1 cây"
+                },
+                {
+                    "matName": "Hạt nêm",
+                    "matQuantum": "1/3 muỗng cà phê"
+                },
+                {
+                    "matName": "Tương cà",
+                    "matQuantum": "2 muỗng canh"
+                }
+            ],
+            "cook": [
+                {
+                    "image": "http://i.imgur.com/LHb4A4y.jpg",
+                    "note": "Xúc xích heo cắt lát xéo, cho vào chảo chiên sơ qua 2 mặt."
+                },
+                {
+                    "image": "http://i.imgur.com/1uUfnZR.jpg",
+                    "note": "Ngò rí cắt nhỏ, cho vào chén cùng tỏi băm, 1 muỗng canh bơ lạt, 1/3 muỗng cà phê hạt nêm, trộn đều. Quết đều hỗn hợp bơ tỏi lên 2 mặt lát bánh mì sandwich."
+                },
+                {
+                    "image": "http://i.imgur.com/kzwtL0n.jpg",
+                    "note": "Cho bánh mì sandwich vào lò nướng trong khoảng 5 phút ở 180 độ C cho se mặt. Hoặc cho lên chảo nướng áp chảo cho mặt bánh hơi se lại là được."
+                },
+                {
+                    "image": "http://i.imgur.com/Bh5SZmP.jpg",
+                    "note": "Cà chua bi, xà lách rửa sạch. Cắt làm đôi trái cà chua bi."
+                },
+                {
+                    "image": "http://i.imgur.com/TZ7RUTc.jpg",
+                    "note": "Trải bánh mì sandwich ra, xếp xà lách, cà chua bi, xúc xích heo vào, đặt miếng bánh mì sandwich còn lại lên trên. Chan thêm tương cà nếu thích."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Cơm rang trứng",
+            "author": "Gao Đỏ",
+            "imageShow": "http://i.imgur.com/ptdHBGg.jpg",
+            "type": "Món ăn sáng",
+            "time": "30 phút",
+            "set": 2,
+            "level": "Trung Bình",
+            "rating": 8,
+            "material": [
+                {
+                    "matName": "Cơm",
+                    "matQuantum": "2 chén"
+                },
+                {
+                    "matName": "Gừng",
+                    "matQuantum": "1 củ"
+                },
+                {
+                    "matName": "Trứng gà",
+                    "matQuantum": "2 quả"
+                },
+                {
+                    "matName": "Hành lá",
+                    "matQuantum": "50 gr"
+                },
+                {
+                    "matName": "Nước tương",
+                    "matQuantum": "1 muỗng canh"
+                },
+                {
+                    "matName": "Hạt nêm",
+                    "matQuantum": "1 muỗng cà phê"
+                },
+                {
+                    "matName": "Dầu ăn",
+                    "matQuantum": "2 muỗng canh"
+                },
+                {
+                    "matName": "Muối",
+                    "matQuantum": "1/2 muỗng cà phê"
+                }
+            ],
+            "cook": [
+                {
+                    "image": "http://i.imgur.com/18GfIc8.jpg",
+                    "note": "Hành lá rửa sạch, cắt nhỏ. Gừng gọt vỏ, băm nhuyễn."
+                },
+                {
+                    "image": "http://i.imgur.com/McXH3dF.jpg",
+                    "note": "Trứng gà đập ra tô, thêm 1/2 muỗng cà phê muối vào, khuấy đều."
+                },
+                {
+                    "image": "http://i.imgur.com/363tE4N.jpg",
+                    "note": "Phi thơm gừng băm với 2 muỗng canh dầu ăn, cho cơm vào, đảo đều 2 phút."
+                },
+                {
+                    "image": "http://i.imgur.com/0hbzOdl.jpg",
+                    "note": "Tiếp theo, cho trứng gà, 1 muỗng canh nước tương, hành lá, 1 muỗng cà phê hạt nêm vào, đảo đều."
+                },
+                {
+                    "image": "http://i.imgur.com/rVqNjRC.jpg",
+                    "note": "Khi thấy cơm khô lại, chín, tắt bếp. Cho cơm rang trứng ra tô, dùng ngay cho nóng nhé!"
+                }
+            ]
         }
     ]
 }

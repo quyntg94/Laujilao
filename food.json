@@ -1,13 +1,12 @@
 ﻿{
     "food": [
         {
-            "id": 1,
             "name": "Cánh gà nướng mật ong",
             "author": "Gao Đỏ",
             "imageShow": "http://i.imgur.com/EwP1jxq.jpg",
             "type": "Món chính",
             "time": "1 giờ",
-            "set": 5,
+            "sets": 5,
             "level": "Trung Bình",
             "rating": 8,
             "material": [
@@ -64,13 +63,12 @@
             ]
         },
         {
-            "id": 2,
             "name": "Xôi cuộn chà bông và bánh quẩy",
             "author": "Gao Vàng",
             "imageShow": "http://i.imgur.com/hU1kL0S.jpg",
             "type": "Món chính",
             "time": "40 phút",
-            "set": 3,
+            "sets": 3,
             "level": "Trung Bình",
             "rating": 7,
             "material": [
@@ -115,13 +113,12 @@
             ]
         },
         {
-            "id": 3,
             "name": "Chè thưng",
             "author": "Gao Xanh",
             "imageShow": "http://i.imgur.com/tM2xGdc.jpg",
             "type": "Món ăn vặt",
             "time": "30 phút",
-            "set": 4,
+            "sets": 4,
             "level": "Dễ",
             "rating": 9,
             "material": [
@@ -182,13 +179,12 @@
             ]
         },
         {
-            "id": 4,
             "name": "Nem cua bể chiên",
             "author": "Gao Đen",
             "imageShow": "http://i.imgur.com/fDiLhC9.jpg",
             "type": "Món chính",
             "time": "30 phút",
-            "set": 2,
+            "sets": 2,
             "level": "Dễ",
             "rating": 9,
             "material": [
@@ -289,13 +285,12 @@
             ]
         },
         {
-            "id": 5,
             "name": "Bánh bông lan phô mai",
             "author": "Gao Trắng",
             "imageShow": "http://i.imgur.com/6MC3EVr.jpg",
             "type": "Món bánh",
             "time": "45 phút",
-            "set": 2,
+            "sets": 2,
             "level": "Trung Bình",
             "rating": 8,
             "material": [
@@ -352,13 +347,12 @@
             ]
         },
         {
-            "id": 6,
             "name": "Bánh mì bơ tỏi kẹp xúc xích",
             "author": "Gao Bạc",
             "imageShow": "http://i.imgur.com/icq3Q9R.jpg",
             "type": "Món ăn sáng",
             "time": "30 phút",
-            "set": 2,
+            "sets": 2,
             "level": "Dễ",
             "rating": 8,
             "material": [
@@ -423,13 +417,12 @@
             ]
         },
         {
-            "id": 7,
             "name": "Cơm rang trứng",
             "author": "Gao Đỏ",
             "imageShow": "http://i.imgur.com/ptdHBGg.jpg",
             "type": "Món ăn sáng",
             "time": "30 phút",
-            "set": 2,
+            "sets": 2,
             "level": "Trung Bình",
             "rating": 8,
             "material": [

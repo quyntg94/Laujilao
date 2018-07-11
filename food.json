@@ -7,7 +7,7 @@
 				"answerB": "Nhiều tầng",
 				"answerC": "Theo lớp",
 				"answerD": "Tập hợp",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Khi sử dụng mạng máy tính ta sẽ thu được các lợi ích:",
@@ -25,7 +25,7 @@
 				"answerB": "Byte",
 				"answerC": "Bps (bit per second)",
 				"answerD": "Hz",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Quá trình dữ liệu di chuyển từ hệ thống máy tính này sang hệ thông máy tính khác phải trải qua giai đoạn nào:",
@@ -34,7 +34,7 @@
 				"answerB": "Nén dữ liệu",
 				"answerC": "Đóng gói",
 				"answerD": "Lọc dữ liệu",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Kết nối mạng sử dụng các giao thức khác nhau bằng các:",
@@ -52,7 +52,7 @@
 				"answerB": "Kháo khắc phục khi lỗi cáp xảy ra, và ảnh hướng taowis các nút mạng khác",
 				"answerC": "Cần quá nhiều cáp để kết nối tới nút mạng trung tâm",
 				"answerD": "Không có khả năng thay đổi khi đã lắp đặt",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Đặc điểm của mạng dạng Bus:",
@@ -61,7 +61,7 @@
 				"answerB": "Tất cả các nút kết nối trên cùng một đường truyền vật lý",
 				"answerC": "Tất cả các nút mạng đều kết nối trực tiếp với nhau",
 				"answerD": "Mỗi nút mạng kết nối với 2 nút mạng còn lại",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Trong kỹ thuật chuyển mạch kênh, trước khi trao đổi thông tin, hệ thống sẽ thiết lập kết nối giữa 2 thực thể bằng một:",
@@ -70,7 +70,7 @@
 				"answerB": "Kết nối ảo",
 				"answerC": "Đường ảo",
 				"answerD": "Đường truyền logic",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Kết nối liên mạng các mạng LAN, WAN, MAN độc lớp với nhau bằng các thiết bị có chức năng:",
@@ -79,7 +79,7 @@
 				"answerB": "Định tuyến",
 				"answerC": "Điều khiển liên kết",
 				"answerD": "Điều khiển lưu lượng và đồng bộ hóa",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Cáp UTP Cat5e sử dụng đầu nối:",
@@ -88,7 +88,7 @@
 				"answerB": "BNC",
 				"answerC": "RJ-45",
 				"answerD": "ST",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Cáp UTP Cat 5 có bao nhiêu đôi cáp:",
@@ -97,7 +97,7 @@
 				"answerB": "4",
 				"answerC": "6",
 				"answerD": "8",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Đặc điểm quang trong của kiến trúc mạng client/server (khách/chủ):",
@@ -106,7 +106,7 @@
 				"answerB": "Server là host luôn hoạt động, thường có IP cố định, có nhóm các server để chia sẻ công việc. Client có kết nối không liên tục, địa chỉ IP có thể thay đổi, truyền thông với server và thường không truyền thông trực tiếp với client khác.",
 				"answerC": "Câu A và B đều đúng",
 				"answerD": "Câu A và B đều sai",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói vế mạng có cấu trúc điểm-điểm:",
@@ -115,7 +115,7 @@
 				"answerB": "Nối từng cặp node lại với nhau theo mộ hình học xác định",
 				"answerC": "Mạng lưu và chuyển tiếp (Store - and - Forward)",
 				"answerD": "Các node trung gian: tiếp nhận, lưu trữ tạm thời và gửi tiếp thông tin",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói về nhược điểm của mạng có cấu trức điểm - điểm:",
@@ -124,7 +124,7 @@
 				"answerB": "Hiệu suất sử dụng đường truyền thấp, chiếm dụng nhiều tài nguyên",
 				"answerC": "Độ trễ lớn, tốn nhiều thời gian để thiết lập đường truyền và xử lý tại các node",
 				"answerD": "Tốc độ trao đổi thông tin thấp",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói về đặc trưng của mạng quảng bá:",
@@ -133,7 +133,7 @@
 				"answerB": "Nối từng cặp node lại với nhau theo một hình học xác định",
 				"answerC": "Các node trung gian: tiếp nhận, lưu trữ tạm thời và gửi tiếp thông tin",
 				"answerD": "Khả năng đụng dộ thông tin (collision) thấp",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói về mạng chuyển mạch kênh:",
@@ -142,7 +142,7 @@
 				"answerB": "Thiết lập liên kết logic, truyền dữ liệu và giải phóng liên kết giữa 2 thực thể",
 				"answerC": "Truyền dữ liệu giữa 2 thực thể",
 				"answerD": "Thiết lập liên kết và giải phóng liên kết giữa 2 thực thể",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói về mạng chuyển mạch gói:",
@@ -169,7 +169,7 @@
 				"answerB": "Không cần độ tin cậy cao, chất lượng dịch vụ thấp",
 				"answerC": "Có xác nhận, không kiểm soát lỗi, kiểm soát luồng",
 				"answerD": "Độ tin cậy cao, không xác nhận",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng nói về cấu trúc vật lý của mạng:",
@@ -178,7 +178,7 @@
 				"answerB": "Hình trạng mạng (Topology)",
 				"answerC": "Phượng tiện truyền",
 				"answerD": "Các dịch vụ mạng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Mạng Internet là:",
@@ -187,7 +187,7 @@
 				"answerB": "Mạng diện rộng",
 				"answerC": "Mạng máy tính toàn cầu",
 				"answerD": "Mạng của các mạng cong kết nối lại với nhau",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong mạng hình BUS, tất cả các trạm truy nhập ngẫu nhiên vào:",
@@ -196,7 +196,7 @@
 				"answerB": "Máy chủ mạng",
 				"answerC": "Bộ nhớ đệm",
 				"answerD": "Các thiết bị kết nối mạng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Mạng LAN hình sao (STAR) khí có sự cố:",
@@ -205,7 +205,7 @@
 				"answerB": "Không ảnh hường tới hoạt động toàn bộ hệ thống",
 				"answerC": "Chỉ ảnh hưởng đến trạm có sự cố",
 				"answerD": "Chỉ ảnh hưởng đến một phần của hệ thống",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Với kiểm kết nối mạng theo dạng hình sao (Star), khi một trạm trong mạng ngưng hoạt động thì các trạm còn lại:",
@@ -214,7 +214,7 @@
 				"answerB": "Đều ngưng hoạt động",
 				"answerC": "Hoạt động không ổn định",
 				"answerD": "Các câu trên đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Hình trạng mạng nào cho phép tất cả các cặp thiết bị đều có 1 đường nối vật lý trực tiếp:",
@@ -223,7 +223,7 @@
 				"answerB": "Bus (dạng đường trục)",
 				"answerC": "Mesh (dạng lưới)",
 				"answerD": "Hierarchical (dạng phân cấp)",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Về nguyên tắc cơ bản, dùng cáp UTP Cat5e nào sau đây để kết nối trực tiếp giữa 2 PC với nhau:",
@@ -232,7 +232,7 @@
 				"answerB": "Cáp chéo",
 				"answerC": "Cáp cuộn",
 				"answerD": "Cả 3 loại trên",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Kết quả nào sau đây không đúng:",
@@ -241,7 +241,7 @@
 				"answerB": "111 chuyển sang nhị phần sẽ có giá trị là: 01100011",
 				"answerC": "125 chuyển sang nhị phân sẽ có giá trị là: 01111011",
 				"answerD": "178 chuyển sang nhị phân sẽ có giá trị là: 10110010",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Kiểu mạng nào được hạn chế ở cấp tòa cao ốc hay một công sở:",
@@ -259,7 +259,7 @@
 				"answerB": "100 mét",
 				"answerC": "550 mét",
 				"answerD": "25 mét",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Xét về tỷ lệ lỗi trên đường truyền dữ liệu thì loại mạng nào cao nhất:",
@@ -268,7 +268,7 @@
 				"answerB": "WAN",
 				"answerC": "Internet",
 				"answerD": "LAN",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Độ dài tối đa cho phép khi sử dụng dây cáp mạng UTP là bao nhiêu mét:",
@@ -277,7 +277,7 @@
 				"answerB": "200",
 				"answerC": "350",
 				"answerD": "400",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Quá trình dữ liệu di chuyển từ hệ thống máy tính này sang hệ thống máy tính khác phải trải qua giai đoạn nào:",
@@ -286,7 +286,7 @@
 				"answerB": "Lọc dữ liệu",
 				"answerC": "Đóng gói dữ liệu",
 				"answerD": "Kiểm thử dữ liệu",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Khi nối mạng giữa 2 máy tính, thường sử dụng loại váp nào để nối trực tiếp giữa chúng:",
@@ -304,7 +304,7 @@
 				"answerB": "Các dịch vụ",
 				"answerC": "Các hệ điều hành mạng",
 				"answerD": "Các thiết bị mang tải",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Hai kiểu máy tính khác nhau có thể truyền thông nếu:",
@@ -313,7 +313,7 @@
 				"answerB": "Chúng tuân thủ theo mô hình OSI",
 				"answerC": "Chúng cùng dùng giao thức TCP/IP",
 				"answerD": "Chúng có phần cứng giống nhau",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Để kết nối hai máy tính với nhau ta có thể sử dụng:",
@@ -331,7 +331,7 @@
 				"answerB": "01101111",
 				"answerC": "01011111",
 				"answerD": "11111010",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Số nhị phân nào dưới đây có giá trị là 164:",
@@ -340,7 +340,7 @@
 				"answerB": "10010010",
 				"answerC": "11000100",
 				"answerD": "10101010",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Thiết bị nào hoạt động ở tầng vật lý:",
@@ -349,7 +349,7 @@
 				"answerB": "Card mạng",
 				"answerC": "Hub và repeater",
 				"answerD": "Router",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Môi trường truyền tin thông thường trong mạng máy tính là:",
@@ -358,7 +358,7 @@
 				"answerB": "Sóng hồng ngoại",
 				"answerC": "Tất cả môi trường nêu trên",
 				"answerD": "Không cái gì đúng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Các thành phần tạo nên mạng là:",
@@ -394,7 +394,7 @@
 				"answerB": "Netcard",
 				"answerC": "Port",
 				"answerD": "Repeater",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Kiến trúc một mạng LAN có thể là:",
@@ -412,7 +412,7 @@
 				"answerB": "ED",
 				"answerC": "CF",
 				"answerD": "EC",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Mô tả nào sau đây dành cho mạng hình sao (star):",
@@ -421,7 +421,7 @@
 				"answerB": "Mỗi nút mạng đều kết nối trực tiếp với tất cả các nút khác",
 				"answerC": "Có một nút trung tâm và các nút mạng khác kết nối đến",
 				"answerD": "Các nút mạng trung tâm sử dụng chung một đường cáp",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Loại cáp nào được sử dụng phổ biến nhất hiện nay:",
@@ -430,7 +430,7 @@
 				"answerB": "Cáp STP",
 				"answerC": "Cáp UTP (CAT 5)",
 				"answerD": "Cáp quang",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giao thức mạng nào dưới đây được sử dụng trong mạng cục bộ LAN:",
@@ -457,7 +457,7 @@
 				"answerB": "ACK và NAK",
 				"answerC": "RFC và IETF",
 				"answerD": "FDM và TDM",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giải thông (bandwidth) là:",
@@ -466,7 +466,7 @@
 				"answerB": "Độ đo phạm vi tần số mà đường truyền có thể đáp ứng được",
 				"answerC": "Độ đo sự yếu đi của tín hiệu trên đường truyền",
 				"answerD": "Độ đo sự ảnh hưởng của tiếng ồn điện tử bên ngoài đến tín hiệu đường truyền",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Thông lượng (throughtput) là:",
@@ -475,7 +475,7 @@
 				"answerB": "Độ đo phạm vi tần số mà đường truyền có thể áp ứng được",
 				"answerC": "Độ đo sự yếu đi của tín hiệu trên đường truyền",
 				"answerD": "Độ đo sự ảnh hưởng của tiếng ồn điện tử bên ngoài đến tín hiệu đường truyền",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Độ suy hao là:",
@@ -484,7 +484,7 @@
 				"answerB": "Độ đo phạm vi tần số mà đường truyền có thể đáp ứng được",
 				"answerC": "Độ đo sự yếu đi của tính hiệu trên đường truyền",
 				"answerD": "Độ đo sự ảnh hưởng của tiếng ồn điện từ bên ngoài đến tín hiệu đường truyền",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Độ nhiễu điện từ là:",
@@ -502,7 +502,7 @@
 				"answerB": "Hai kênh truyền thông cùng phaai chia giải thông của đường truyền",
 				"answerC": "Ba kênh truyền thông cùng phân chia giải thông của đường truyền",
 				"answerD": "Nhiều kênh truyền thông cùng phân chia giải thông của đường truyền",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Truyền dẫn theo dải rộng (broadband):",
@@ -520,7 +520,7 @@
 				"answerB": "Physical, Data Link, Network, Transport, Session, Presentation, Application",
 				"answerC": "Physical, Data Link, Network, Transform, Presentation, Session, Application",
 				"answerD": "Presentation, Data Link, Network, Transport, Session, Physical, Application",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Thứ tự các tầng từ cao đến thấp trong mô hình TCP/IP:",
@@ -529,7 +529,7 @@
 				"answerB": "Application, Network Access, Transport, Internet",
 				"answerC": "Application, Transport, Internet, Network Access",
 				"answerD": "Transport, Internet, Application, Network Access",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Thứ tự đúng của các đơn vị dữ liệu trong mô hình TCP/IP:",
@@ -547,7 +547,7 @@
 				"answerB": "Ứng dụng, Trình diễn, Phiên, Mạng, Giao vận, Liên kết, Vật lý",
 				"answerC": "Ứng dụng, Trình diễn, Phiên, Giao vận, Mạng, Liên kết, Vật lý",
 				"answerD": "Ứng dụng, Trình diễn, Giao vận, Phiên, Liên kết, Mạng, Vật lý",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Chức năng của tầng trình diễn là chuyển đổi:",
@@ -556,7 +556,7 @@
 				"answerB": "Cấu trúc thông tin về cấu trúc khung",
 				"answerC": "Khuôn dạng của gói tin",
 				"answerD": "Các phiên truyền thông giữa các thực thể",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chức năng của tầng giao vận là:",
@@ -565,7 +565,7 @@
 				"answerB": "Kiểm soát lỗi và luồng dữ liệu",
 				"answerC": "Đóng gói và vận chuyển thông tin",
 				"answerD": "Phân mảnh và đóng gói dữ liệu",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chức năng của tầng mạng là:",
@@ -574,7 +574,7 @@
 				"answerB": "Thực hiện chuyển mạch",
 				"answerC": "Kiểm soát lỗi và luồng dữ liệu",
 				"answerD": "Đóng gói dữ liệu",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chức năng của tầng liên kết dữ liệu là:",
@@ -583,7 +583,7 @@
 				"answerB": "Đóng gói dữ liệu",
 				"answerC": "Chọn đường",
 				"answerD": "Vận chuyển thông tin giữa các máy chủ (End to End)",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chức năng của tầng vật lý là:",
@@ -592,7 +592,7 @@
 				"answerB": "Kiểm soát lỗi và luồng dữ liệu",
 				"answerC": "Tạo khung thông tin",
 				"answerD": "Phân mảnh và đóng gói dữ liệu",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Khi kết nối máy tính từ nhà vào ISP thông qua đường dây điện thoại, tín hiệu trên đường điện thoại sẽ thuộc về tầng:",
@@ -610,7 +610,7 @@
 				"answerB": "Phiên",
 				"answerC": "Trình diễn",
 				"answerD": "Mạng",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Mô hình OSI chia hoạt động truyền thông thành mấy tầng:",
@@ -619,7 +619,7 @@
 				"answerB": "5 tầng",
 				"answerC": "4 tầng",
 				"answerD": "3 tầng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Các tầng của mô hình OSI theo thứ tự từ dưới lên là:",
@@ -628,7 +628,7 @@
 				"answerB": "Vật lý, Liên kết dữ liệu, Giao vận, Mạng, Phiên, Trình diễn và Ứng dụng",
 				"answerC": "Vật lý, Liên kết dữ liệu, Mạng, Giao vận, Phiên, Trình diễn và Ứng dụng",
 				"answerD": "Vật lý, Liên kết dữ liệu, Mạng, TCP, IP, Phiên và Ứng dụng",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Tầng nào xác định giao diện giữa người sử dụng và môi trường OSI:",
@@ -637,7 +637,7 @@
 				"answerB": "Tầng trình diễn",
 				"answerC": "Tầng phiên",
 				"answerD": "Tầng vận chuyển",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Tầng nào dưới đây thiết lập, duy trì, hủy bỏ \"các giao dịch\" giữa các thực thể đầu cuối:",
@@ -646,7 +646,7 @@
 				"answerB": "Tầng liên kết dữ liệu",
 				"answerC": "Tầng phiên",
 				"answerD": "Tầng vật lý",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Tầng nào thực hiện chuyển giao các thông điệp giữa các tiếng trình trên các thiết bị:",
@@ -655,7 +655,7 @@
 				"answerB": "Tầng giao vận",
 				"answerC": "Tầng liên kết dữ liệu",
 				"answerD": "Tầng phiên",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Điều khiển các cuộc liên lạc là chức năng của tầng nào:",
@@ -664,7 +664,7 @@
 				"answerB": "Tầng mạng",
 				"answerC": "Tầng phiên",
 				"answerD": "Tầng trình diễn",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Trong mô hình OSI, tầng nào thực hiện việc chọn đường và chuyển tiếp thông tin:",
@@ -673,7 +673,7 @@
 				"answerB": "Transport",
 				"answerC": "Session",
 				"answerD": "Data Link",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong mô hình OSI, việc mở và đóng các cuộc hội thoại giữa các máy tính là trách nhiệm của:",
@@ -682,7 +682,7 @@
 				"answerB": "Tầng giao vận",
 				"answerC": "Tầng liên kết dữ liệu",
 				"answerD": "Tầng vật lý",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong mô hình OSI, đâu là mối qua hệ của một tầng (N) đối với tầng bên trên nó (N + 1):",
@@ -691,7 +691,7 @@
 				"answerB": "Tầng N + 1 bổ sung một phần đầu vào thông tin nhận được từ tầng N",
 				"answerC": "Tầng N vận dụng các dịch vụ do tầng N + 1 cung cấp",
 				"answerD": "Tầng N không có tác động gì lên tầng N + 1",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong mô hình mạng Internet, chuẩn UNICODE (cho việc mã hóa các ký tự) sẽ nằm ở tần:",
@@ -700,7 +700,7 @@
 				"answerB": "Giao vận",
 				"answerC": "Mạng",
 				"answerD": "Liên kết dữ liệu",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Theo mô hình OSI, định dạng ảnh JPG nằm ở tầng:",
@@ -709,7 +709,7 @@
 				"answerB": "Phiên",
 				"answerC": "Trình diễn",
 				"answerD": "Mạng",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Đơn vị dữ liệu ở tầng presetation là:",
@@ -718,7 +718,7 @@
 				"answerB": "Data",
 				"answerC": "Frame",
 				"answerD": "Packet",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Chọn chức năng của tầng Presentation:",
@@ -727,7 +727,7 @@
 				"answerB": "Cung cấp các dịch vụ mạng người dùng",
 				"answerC": "Đánh địa chỉ",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Tầng nào trong mô hình OSI chịu trách nhiệm mã hóa dữ liệu",
@@ -736,7 +736,7 @@
 				"answerB": "Presentation",
 				"answerC": "Session",
 				"answerD": "Transport",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Tầng nào trong mô hình OSI làm việc với các tín hiệu điện:",
@@ -745,7 +745,7 @@
 				"answerB": "Network",
 				"answerC": "Physical",
 				"answerD": "Transprot",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Mô hình TCP/IP chia hoạt dộng truyền thông thành mấy tầng",
@@ -754,7 +754,7 @@
 				"answerB": "6 tầng",
 				"answerC": "4 tầng",
 				"answerD": "3 tầng",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Thứ tự từ thấp đến cao trong mô hình TCP/IP:",
@@ -763,7 +763,7 @@
 				"answerB": "Mạng, Giao vận, Truy nhập mạng, Ứng dụng",
 				"answerC": "Truy nhập mạng, Mạng, Giao vận, Ứng dụng",
 				"answerD": "Truy nhập mạng, Giao vận, Mạng, ứng dụng",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Đơn vị dữ liệu ở tầng Data Link là:",
@@ -772,7 +772,7 @@
 				"answerB": "Data",
 				"answerC": "Frame",
 				"answerD": "Packet",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Đơn vị dữ liệu ở tầng Internet là:",
@@ -790,7 +790,7 @@
 				"answerB": "Đóng gói dữ liệu",
 				"answerC": "Cung cấp các phương tiện để người dùng có thể truy nhập được vào môi trường mạng",
 				"answerD": "Vận chuyển thông tin giữa các máy chủ (End to End)",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "FTP là từ viết tắt của:",
@@ -799,7 +799,7 @@
 				"answerB": "Folder Transfer Protocol",
 				"answerC": "Protocol Transfer Program",
 				"answerD": "Protocol Transfer Folder",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "HTTP là từ viết tắt của:",
@@ -808,7 +808,7 @@
 				"answerB": "HyperText Transit Protocol",
 				"answerC": "HyperText Transfer Protocol",
 				"answerD": "HyperText Treat Protocol",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giao thức POP3 sử dụng cổng dịch vụ số:",
@@ -826,7 +826,7 @@
 				"answerB": "Phân giải tên miền (IP sang tên và ngược lại)",
 				"answerC": "Phân giải địa chỉ MAC",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Nhược điểm nếu xây dựng hệ thống dịch vụ tên miền (DNS) theo mô hình tập trung là:",
@@ -844,7 +844,7 @@
 				"answerB": "25",
 				"answerC": "21",
 				"answerD": "110",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức truyền thông trong DNS sử dụng cổng dịch vụ số:",
@@ -853,7 +853,7 @@
 				"answerB": "25",
 				"answerC": "53",
 				"answerD": "110",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Trong số các cặp giao thức và cổng dịch vụ sau, cặp nào là sai:",
@@ -862,7 +862,7 @@
 				"answerB": "FTP:UDP Port 22",
 				"answerC": "HTTP:TCP Port 80",
 				"answerD": "DNS:UDP Port 53",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức nào sau đây hoạt động trên nền giao thức UDP",
@@ -871,7 +871,7 @@
 				"answerB": "DNS",
 				"answerC": "Telnet",
 				"answerD": "Tất cả đều đúng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói về ngôn ngữ đánh dấu siêu văn bản HTML:",
@@ -880,7 +880,7 @@
 				"answerB": "Phương thức liên kết các file văn bản",
 				"answerC": "Là công cụ soạn thảo trang thông tin Web",
 				"answerD": "Giao diện Web",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói về tên gọi loại máy chủ cung cấp dịch vụ thư điện tử:",
@@ -889,7 +889,7 @@
 				"answerB": "Mail Server",
 				"answerC": "FTP Server",
 				"answerD": "Proxy",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Khẳng định nào sau đây là đúng khi nói về đơn vị dữ liệu của tầng Ứng dụng (Application):",
@@ -898,7 +898,7 @@
 				"answerB": "Segment/Datagram (Đoạn/Bó dữ liệu)",
 				"answerC": "Packet (Gói dữ liệu)",
 				"answerD": "Frame (Khung dữ liệu)",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "HTTP (HyperText Transfer Protocol) là:",
@@ -907,7 +907,7 @@
 				"answerB": "Giao thức tầng vận chuyển cho phép truyền tải các trang Web",
 				"answerC": "Một thành phần tên miền",
 				"answerD": "Giao diện Web",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Các giao thức ứng dụng hoạt động trên:",
@@ -916,7 +916,7 @@
 				"answerB": "Tầng phiên",
 				"answerC": "Tầng ứng dụng",
 				"answerD": "Tầng liên kết dữ liệu",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "HTTP làm nhiệm vụ gì:",
@@ -925,7 +925,7 @@
 				"answerB": "Hiển thị các trang Web từ xa trên màn hình và giúp người dùng tương tác với chúng",
 				"answerC": "Cung cấp giao diện người dùng như các nút bấm, thanh trượt, ...",
 				"answerD": "Cung cấp dữ liệu từ server sử dụng giao thức chuyển file (File Transport Protocol)",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trên Internet, email được gửi từ máy nguồn bằng cách thiết lập một kết nối TCP đến một cổng cụ thể trên máy đích. Cổng đó là:",
@@ -934,7 +934,7 @@
 				"answerB": "110",
 				"answerC": "25",
 				"answerD": "404",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giả sử có một bản ghi của dịch vụ DNS là (cnn.com, r1.infor.cnn.com, CNAME)",
@@ -943,7 +943,7 @@
 				"answerB": "r1.infor.cnn.com là tên viết tắt (rút gọn) của cnn.com",
 				"answerC": "Cả A và B đều đúng",
 				"answerD": "Cả A và B đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Giao thức được sử dụng để 2 bên truyền file là:",
@@ -952,7 +952,7 @@
 				"answerB": "FTP",
 				"answerC": "SMTP",
 				"answerD": "SNMP",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giả sử có một bản ghi dịch vụ DNS là (alpha.com, 123.4.5.7, NS). Chọn câu trả lời đúng:",
@@ -961,7 +961,7 @@
 				"answerB": "alpha.com là một tên miền, không phải là một máy",
 				"answerC": "123.4.5.7 là địa chỉ IP của máy phục vụ thư (mail server) có tên miền là google.com",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giả sử tất cả các máy tính thuê bao Internet của FPT khi truy cập vào website google.com đều bị chuyển hướng sang một trang web khác. Các máy tính thuê bao các ISP khác không gặp tình huống này. Nguyên nhân gây ra lỗi lớn nhất sẽ là:",
@@ -970,7 +970,7 @@
 				"answerB": "Website google bị lỗi",
 				"answerC": "DNS server của FPT bị lỗi",
 				"answerD": "Router ra ngoài của ISP FPT bị lỗi",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Các Web client thường được gọi là gì:",
@@ -979,7 +979,7 @@
 				"answerB": "Browers",
 				"answerC": "Mosaic",
 				"answerD": "HTML interpreter (trình thông dịch HTML)",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Web server thường sử dụng phần mềm chạy trên:",
@@ -997,7 +997,7 @@
 				"answerB": "Mosaic",
 				"answerC": "HTML",
 				"answerD": "Netscape",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Phát biểu nào sau đây là đúng về giao thức HTTP:",
@@ -1015,7 +1015,7 @@
 				"answerB": "201 \"Moved Permanetly\"",
 				"answerC": "404 \"Not Modified\"",
 				"answerD": "20 \"Not Implemented\"",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Những thông điệp nào dưới đây được giao thức POP3 hỗ trợ:",
@@ -1033,7 +1033,7 @@
 				"answerB": "HTTP",
 				"answerC": "NFS",
 				"answerD": "TCP",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Cho biết ứng dụng nào thuộc loại Client/Server:",
@@ -1042,7 +1042,7 @@
 				"answerB": "WWW (World Wide Web)",
 				"answerC": "Excel",
 				"answerD": "Photoshop",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Mã 404 trong thông điệp trả lời từ Web server cho Web client có ý nghĩa:",
@@ -1051,7 +1051,7 @@
 				"answerB": "Đối tượng client yêu cầu không có",
 				"answerC": "Không có câu trả lời nào đúng",
 				"answerD": "Yêu cầu của Client không hợp lệ",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức được sử dụng để truyền thư giữa các máy chủ phục vụ thư (Mail server) là:",
@@ -1060,7 +1060,7 @@
 				"answerB": "FTP",
 				"answerC": "SMTP",
 				"answerD": "POP",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Ứng dụng nào sử dụng mô hình client/server:",
@@ -1069,7 +1069,7 @@
 				"answerB": "Email, Web",
 				"answerC": "Skype",
 				"answerD": "KaZaA",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Ứng dụng nào sử dụng mô hình P2P:",
@@ -1087,7 +1087,7 @@
 				"answerB": "Web, DNS, điện thoại Internet",
 				"answerC": "Hội thảo từ xa, điện thoại Internet, streaming media",
 				"answerD": "Telnet, DNS, Email",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Các ứng dụng dùng giao thức UDP:",
@@ -1096,7 +1096,7 @@
 				"answerB": "Web, DNS, điện thoại Internet",
 				"answerC": "Hội thảo từ xa, điện thoại Internet, streaming media",
 				"answerD": "Telnet, DNS, Email",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Định danh (identifer) của tiến trình bao gồm:",
@@ -1105,7 +1105,7 @@
 				"answerB": "Địa chỉ IP và số hiệu cổng liên kết với tiến trình trên host",
 				"answerC": "Địa chỉ IP nguồn và địa chỉ IP đích",
 				"answerD": "Địa chỉ IP nguồn, số hiệu cổng nguồn, địa chỉ IP đích, số hiệu cổng đích",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Đâu là một URL:",
@@ -1123,7 +1123,7 @@
 				"answerB": "Thời gian để gửi một gói nhỏ đi từ client đến server",
 				"answerC": "Thời gian để gửi một gói nhỏ đi từ client đến server và quay lại",
 				"answerD": "Thời gian truyền file",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Trong cơ sở dữ liệu của DNS lưu trữ các resource record (RR) có dạng:",
@@ -1132,7 +1132,7 @@
 				"answerB": "(value, name, ttl, type)",
 				"answerC": "(value, ttl, name, type)",
 				"answerD": "(name, type, ttl, value)",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Những giao thức nào sau đây thuộc tầng vận chuyển (Transport Layer) trong mô hình TCP/IP:",
@@ -1150,7 +1150,7 @@
 				"answerB": "TCP",
 				"answerC": "ARP",
 				"answerD": "IP",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Trường Window trong header của gói TCP liên quan đến:",
@@ -1159,7 +1159,7 @@
 				"answerB": "Hệ điều hành",
 				"answerC": "Kích thước màn hình",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Gói tin TCP yêu cầu kết nối sẽ có giá trị của các cờ:",
@@ -1168,7 +1168,7 @@
 				"answerB": "ACK = 1, SYN = 1",
 				"answerC": "ACK = 0, SYN = 1",
 				"answerD": "FIN = 1, SYN = 0",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "TCP và UDP hoạt động ở tầng nào trong mô hình OST:",
@@ -1177,7 +1177,7 @@
 				"answerB": "Transport (Tầng 4)",
 				"answerC": "Network (Tầng 3)",
 				"answerD": "Data Link (Tầng 2)",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Khằng định nào sau đây là đúng khi nói về kỹ thuật sử dụng băng thông hiệu quả:",
@@ -1186,7 +1186,7 @@
 				"answerB": "Điều kiển luồng tốc độ đảm bảo",
 				"answerC": "Điểu khiển luồng cửa sổ động",
 				"answerD": "Điều khiển luồng tốc độ động",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giao thức TCP hoạt động cùng tầng với những giao thức nào:",
@@ -1195,7 +1195,7 @@
 				"answerB": "UDP",
 				"answerC": "TELNET, FTP",
 				"answerD": "IP, ARP",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Các giao thức TCP và UDP hoạt động ở tần nào:",
@@ -1204,7 +1204,7 @@
 				"answerB": "Network",
 				"answerC": "Transport",
 				"answerD": "Presentation",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giao thức UDP được sử dụng cho những ứng dụng:",
@@ -1222,7 +1222,7 @@
 				"answerB": "IP",
 				"answerC": "ICMP",
 				"answerD": "ARP",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong gói dữ liệu UDP (UDP segment), vùng dữ liệu thực sự bắt đầu từ byte thứ:",
@@ -1240,7 +1240,7 @@
 				"answerB": "UDP = TCP - (tính tin cậy)",
 				"answerC": "UDP = ICMP + (phân kênh theo địa chỉ cổng)",
 				"answerD": "UDP = TCP - IP",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Để phát hiện lỗi trong gói tin, người ta sử dụng kỹ thuật:",
@@ -1267,7 +1267,7 @@
 				"answerB": "TCP",
 				"answerC": "HTTP",
 				"answerD": "FTP",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Giao thức TCP có thể xử lý:",
@@ -1285,7 +1285,7 @@
 				"answerB": "8 bit",
 				"answerC": "16 bit",
 				"answerD": "32 bit",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Vị trí dữ liệu thực sự trong gói dữ liệu TCP bắt đầu từ byte:",
@@ -1303,7 +1303,7 @@
 				"answerB": "1100",
 				"answerC": "500",
 				"answerD": "501",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Với giao thức TCP, bên nhận sẽ thông báo lại cho bên gửi về số lượng tối đa dữ liệu mà nó có thể nhận được. Giá trị này được xác định tại trường:",
@@ -1312,7 +1312,7 @@
 				"answerB": "Acknowledgement Number",
 				"answerC": "Rcvr Number",
 				"answerD": "Header length",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Sau khi thực thể TCP gửi đi gói SYN segment với trường Sequence Number = 100, nó nhận được gói ACKSYN với trường Sequence Number = 200. Trường Acknowledgment Number của gói ACKSYN này sẽ là:",
@@ -1321,7 +1321,7 @@
 				"answerB": "101",
 				"answerC": "200",
 				"answerD": "201",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giả sử ứng dụng tạo ra một thông điệp 60 byte. Thông điệp này được đặt trong TCP segment rồi sau đó là IP datagram. Giả sử cả gói TCP lẫn gói IP không có trường dữ liệu đặc biệt (Optional = 0). Trong mỗi IP datagram sẽ chứa bao nhiêu phần trăm dữ liệu thật sự:",
@@ -1330,7 +1330,7 @@
 				"answerB": "40%",
 				"answerC": "60%",
 				"answerD": "80%",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "TCP port mặc định được sử dụng FTP server có giá trị là bao nhiêu:",
@@ -1339,7 +1339,7 @@
 				"answerB": "80 và 8080",
 				"answerC": "110 và 80",
 				"answerD": "8080 và 1080",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong gói dữ liệu UDP (UDP segment), địa chỉ dùng để xác định tiến trình nhận nằm ở:",
@@ -1348,7 +1348,7 @@
 				"answerB": "Byte 3 và 4",
 				"answerC": "Byte 5 và 6",
 				"answerD": "Không xác định",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Các protocol TCP và UDP hoạt động ở tẩng nào trong các tầng sau đây:",
@@ -1357,7 +1357,7 @@
 				"answerB": "Network",
 				"answerC": "Application",
 				"answerD": "Presentation",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Giao thức TCP làm việc ở tầng nào của mô hình OSI:",
@@ -1366,7 +1366,7 @@
 				"answerB": "Tầng giao vận",
 				"answerC": "Tầng mạng",
 				"answerD": "Tầng liên kết dữ liệu",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức nào dưới đây không đảm bảo dữ liệt gửi đi có tới máy nhận hoàn chỉnh hay không:",
@@ -1375,7 +1375,7 @@
 				"answerB": "ASP",
 				"answerC": "UDP",
 				"answerD": "ARP",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Các giao thức của tầng giao vận (Transport):",
@@ -1384,7 +1384,7 @@
 				"answerB": "Kiểm soát nội dung thông điệp trao đổi giữa hai tiến trình và hành vi của mỗi bên khi nhận được thông điệp",
 				"answerC": "Kiểm soát việc truyền tin giữa hai máy tính trên mạng máy tính",
 				"answerD": "Kiểm soát việc truyền dữ liệu giữa hai máy tính trên cùng một môi trường truyền",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Giả sử trường Length của một gói dữ liệu UDP có giá trị 150. Dữ liệu thực sự sẽ có:",
@@ -1393,7 +1393,7 @@
 				"answerB": "142 byte",
 				"answerC": "150 byte",
 				"answerD": "158 byte",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Quan sát một người đang truy cập một trang web, thấy anh ta gõ đường dẫn như sau: http://www.tomang.net:3000. Hãy cho biết Server web mà trang web trên sử dụng TCP port như thế nào:",
@@ -1411,7 +1411,7 @@
 				"answerB": "Địa chỉ IP nguồn, số port nguồn",
 				"answerC": "Địa chỉ IP đích, số port đích",
 				"answerD": "Địa chỉ IP nguồn, địa chỉ IP đích, số port nguồn, số port đích",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "TCP socket được xác định bởi:",
@@ -1429,7 +1429,7 @@
 				"answerB": "Các kênh truyền không tin cậy",
 				"answerC": "Cả hai trường hợp trên đều đúng",
 				"answerD": "Cả hai trường hợp trên đều sai",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Độ phức tạp cảu giao thức truyền tin cậy (rdt-reliable data transfer protocol) phụ thuộc vào:",
@@ -1438,7 +1438,7 @@
 				"answerB": "Các thiết bị mạng (router, switch, hub...)",
 				"answerC": "Các đặc tính của kênh truyền",
 				"answerD": "Khoảng cách giữa các hosts",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Byte đầu tiên của một địa chỉ IP có dạng: 11100001. Vậy nó thuộc lớp nào:",
@@ -1447,7 +1447,7 @@
 				"answerB": "Lớp C",
 				"answerC": "Lớp D",
 				"answerD": "Lớp E",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Trong mạng máy tính dùng giao thức TCP/IP và đề dùng Subnet Mask là 255.255.255.0 thì cặp máy tính nào sau đây liên thông:",
@@ -1456,7 +1456,7 @@
 				"answerB": "192.168.15.1 và 192.168.15.254",
 				"answerC": "192.168.100.15 và 192.168.100.16",
 				"answerD": "172.25.11.1 và 172.26.11.2",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Cho địa chỉ 192.64.10.0/28. Hãy cho biết số lượng mạng con và số lượng máy trên mỗi mạng con:",
@@ -1465,7 +1465,7 @@
 				"answerB": "14 mạng con, mỗi mạng con có 14 máy",
 				"answerC": "16 mạng con, mỗi mạng con có 16 máy",
 				"answerD": "8 mạng con, mỗi mạng con có 32 máy",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Một mạng lớp B cần chia thành 3 mạng con sử dụng Subnet mask nào sau đây:",
@@ -1474,7 +1474,7 @@
 				"answerB": "255.0.0.255",
 				"answerC": "255.255.192.0",
 				"answerD": "255.255.255.224",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Cho kết xuất lệnh route print trên máy X như sau: ...Máy X có địa chỉ IP:",
@@ -1492,7 +1492,7 @@
 				"answerB": "Từ 131.107.2.49 đến 131.107.2.63",
 				"answerC": "Từ 131.107.2.48 đến 131.107.2.62",
 				"answerD": "Từ 131.107.2.55 đến 131.107.2.126",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Địa chỉ IP nào sau đây cùng địa chỉ mạng (Subnet) với địa chỉ IP 192.168.1.10/24:",
@@ -1510,7 +1510,7 @@
 				"answerB": "Giao thức ARP",
 				"answerC": "Số đầu chấm trong địa chỉ",
 				"answerD": "Địa chỉ của DHCP",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Một địa chỉ mạng lớp C được chia thành 5 mạng con (Subnet). Mặt nạ mạng (Subnet mask) cần dùng:",
@@ -1519,7 +1519,7 @@
 				"answerB": "255.255.255.252",
 				"answerC": "255.255.255.240",
 				"answerD": "255.255.255.248",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong địa chỉ IPv4, có 5 lớp tất cả: A, B, C, D, E. Lớp C là lớp có dãy địa chỉ:",
@@ -1528,7 +1528,7 @@
 				"answerB": "192.0.0.0 tới 223.255.255.255",
 				"answerC": "128.0.0.0 tới 191.255.255.255",
 				"answerD": "240.0.0.0 tới 255.255.255.255",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Địa chỉ IP nào sau đây là hợp lệ:",
@@ -1537,7 +1537,7 @@
 				"answerB": "192.168.1.2",
 				"answerC": "255.255.255.255",
 				"answerD": "Tất cả các câu trên",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Cho địa chỉ IP: 192.168.5.39/28. Cho biết địa chỉ mạng của địa chỉ IP này:",
@@ -1546,7 +1546,7 @@
 				"answerB": "192.168.5.32",
 				"answerC": "192.168.5.0",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "IPv4 có bao nhiêu địa chỉ IP:",
@@ -1555,7 +1555,7 @@
 				"answerB": "2^22",
 				"answerC": "2^32",
 				"answerD": "2^42",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "IPv4, lớp B có số NetIDs/HostIDs sử dụng tương ứng là:",
@@ -1564,7 +1564,7 @@
 				"answerB": "2^14/(2^16 - 2)",
 				"answerC": "2^13/(2^19 - 2)",
 				"answerD": "2^10/(2^22 - 2)",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức OSPF sử dụng thuật toán tìm đường đi nào:",
@@ -1573,7 +1573,7 @@
 				"answerB": "Distance vector routing",
 				"answerC": "Link state",
 				"answerD": "Bellman-Ford",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giao thức RIP sử dụng thuật toán tìm đường đi nào:",
@@ -1582,7 +1582,7 @@
 				"answerB": "Distance vector routing",
 				"answerC": "Link state",
 				"answerD": "Bellman-Ford",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Thông điệp ICMP được đặt trong gói dữ liệu:",
@@ -1591,7 +1591,7 @@
 				"answerB": "TCP",
 				"answerC": "IP",
 				"answerD": "Không xác định",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Địa chỉ IP nào sau đây là hợp lệ:",
@@ -1609,7 +1609,7 @@
 				"answerB": "Lớp B",
 				"answerC": "Lớp C",
 				"answerD": "Không câu nào đúng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Giao thức nào sau đây thuộc tầng mạng (Internet Layer) trong mô hình TCP/IP:",
@@ -1618,7 +1618,7 @@
 				"answerB": "IP",
 				"answerC": "ARP",
 				"answerD": "Cả B và C đều đúng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Việt Nam được trung tâm thông tin Châu Á Thái Bình Dương APNIC phân địa chỉ IP thuộc lớp nào:",
@@ -1627,7 +1627,7 @@
 				"answerB": "Lớp B",
 				"answerC": "Lớp C",
 				"answerD": "Lớp D",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Địa chỉ IP 203.162.0.11 thuộc địa chỉ lớp nào:",
@@ -1636,7 +1636,7 @@
 				"answerB": "Lớp B",
 				"answerC": "Lớp C",
 				"answerD": "Lớp D",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Những thuật ngữ nào dùng để mo tả các đơn vị dữ liệu tại tầng mạng:",
@@ -1645,7 +1645,7 @@
 				"answerB": "Khung (Frame)",
 				"answerC": "Gói tin (Packet)",
 				"answerD": "Cả A và C đều đúng",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Giao thức IP là giao thức:",
@@ -1654,7 +1654,7 @@
 				"answerB": "Không liên kết",
 				"answerC": "Đòi hỏi độ tin cậy cao trong quá trình trao đổi thông tin",
 				"answerD": "Yêu cầu kiểm soát luông và kiểm soát lỗi",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Cấu trúc khuôn dạng của địa chỉ IP lớp A là:",
@@ -1663,7 +1663,7 @@
 				"answerB": "Bit 1: 0, bit 2-16: NetID, 17-32: HostID",
 				"answerC": "Bit 1-2: 10, bit 3-8: NetID, 9-32: HostID",
 				"answerD": "Bit 1-2: 10, bit 3-16: NetID, 17-32: HostID",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Cấu trúc không dạng của địa chỉ IP lớp B là:",
@@ -1708,7 +1708,7 @@
 				"answerB": "Ping",
 				"answerC": "SMTP",
 				"answerD": "X Windows",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giải pháp nào sau đây có thể giải quyết tình trạng khan hiếm địa chỉ IP:",
@@ -1726,7 +1726,7 @@
 				"answerB": "Router",
 				"answerC": "Hub",
 				"answerD": "Switch",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức nào trong số các giao thức sau thuộc tầng mạng:",
@@ -1744,7 +1744,7 @@
 				"answerB": "192.168.1.255",
 				"answerC": "192.168.1.15",
 				"answerD": "192.168.1.96",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Router hoạt động tại tầng nào trong mô hình OSI:",
@@ -1753,7 +1753,7 @@
 				"answerB": "Data Link Layer",
 				"answerC": "Transport Layer",
 				"answerD": "Application Layer",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Nếu 4 PCs kết nối với nhau thông qua HUB thì cần bao nhiêu địa chỉ IP cho 5 trang thiết bị mạng này:",
@@ -1762,7 +1762,7 @@
 				"answerB": "3",
 				"answerC": "4",
 				"answerD": "2",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Các thiết bị mạng nào sau đây có khả năng duy trì và trao đổi thông tin với nhau về hiện trạng của toàn bộ mạng trong một xí nghiệp hoặc một khuôn viên:",
@@ -1771,7 +1771,7 @@
 				"answerB": "Router",
 				"answerC": "Repeater",
 				"answerD": "Connector",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Router là một thiết bị dùng để:",
@@ -1780,7 +1780,7 @@
 				"answerB": "Lọc các gói tin dư thừa",
 				"answerC": "Mở rộng một hệ thống mạng",
 				"answerD": "Cả 3 đều đúng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Thiết bị Router cho phép:",
@@ -1789,7 +1789,7 @@
 				"answerB": "Kết nối nhiều máy tính lại với nhau",
 				"answerC": "Liên kết nhiều mạng LAN lại với nhau, đồng thời ngăn không cho các packet thuộc loại broadcast đi qua nó và giúp cho việc định tuyến cho các packet",
 				"answerD": "Định tuyến cho các packet, chia nhỏ các Collision Domain nhưng không chia nhỏ các Broadcast Domain",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Tầng Network chịu trách nhiệm:",
@@ -1798,7 +1798,7 @@
 				"answerB": "Quyết định đích đến của packet",
 				"answerC": "Phát hiện packet bị mất và cho gửi lại packet mất",
 				"answerD": "Chia nhỏ packet thành các frame",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Các thiết bi mạng nào sau đây có khả năng định tuyến cho một gói tin (chuyển gói tin sang một mạng kế khác nằm trên đường đến mạng đích) bằng cách dựa vào địa chỉ IP của máy đích có trong gói tin và thông tin hiện thời về tình trạng mạng được thể hiện trong bảng định tuyến có trong thiết bị:",
@@ -1807,7 +1807,7 @@
 				"answerB": "Router",
 				"answerC": "Switch",
 				"answerD": "Cả A, B và C",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Địa chỉ nào thuộc về lớp A:",
@@ -1816,7 +1816,7 @@
 				"answerB": "11001111 11110000 10101010 01010101",
 				"answerC": "01111010 10100101 11000011 11100011",
 				"answerD": "11011010 10101010 01010101 11110011",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Nếu lấy một địa chỉ lớp B để chia subnet với netmask là 255.255.240.0 thì có bao nhiêu subnets có thể sử dụng được:",
@@ -1834,7 +1834,7 @@
 				"answerB": "10.1.1.1",
 				"answerC": "140.8.8.8",
 				"answerD": "203.5.6.7",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Máy tính đóng vai tròn Router có bao nhiêu địa chỉ IP:",
@@ -1843,7 +1843,7 @@
 				"answerB": "2",
 				"answerC": "3",
 				"answerD": "4",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Chức năng chính của router là:",
@@ -1852,7 +1852,7 @@
 				"answerB": "Chia nhỏ broadcast domain",
 				"answerC": "A và B đề đúng",
 				"answerD": "A và B đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trong các địa chỉ sau, chọn địa chỉ không nằm cùng mạng với các địa chỉ còn lại:",
@@ -1861,7 +1861,7 @@
 				"answerB": "203.29.100.110/255.255.255.240",
 				"answerC": "203.29.103.113/255.255.255.240",
 				"answerD": "203.29.100.98/255.255.255.240",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Địa chỉ nào sau đây là địa chỉ broadcast của mạng lớp B:",
@@ -1870,7 +1870,7 @@
 				"answerB": "149.6.255.255",
 				"answerC": "149.6.7.255",
 				"answerD": "Tất cả đều đúng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Địa chỉ IP 172.200.25.55/255.255.0.0",
@@ -1879,7 +1879,7 @@
 				"answerB": "Thuộc lớp C",
 				"answerC": "Là địa chỉ riêng",
 				"answerD": "Là địa chỉ broadcast",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Thuật toán chạy trên gateway router là:",
@@ -1897,7 +1897,7 @@
 				"answerB": "Thực hiện các giao thức/ giải thuật định tuyến",
 				"answerC": "Cả hai chức năng A và B",
 				"answerD": "Không thực hiện chức năng nào ở trên",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Kết nối mạng có giá trị MTU là 1500 bytes. Kích thước gói dữ liệu lớn nhất có thể truyền qua kết nối này là:",
@@ -1906,7 +1906,7 @@
 				"answerB": "1480 bytes",
 				"answerC": "1500 bytes",
 				"answerD": "1600 bytes",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Có địa chỉ 200.23.16.0/23, giá trị 23 là:",
@@ -1915,7 +1915,7 @@
 				"answerB": "Số bit trong phần HostID của địa chỉ",
 				"answerC": "Số bit xác định lớp A, B, C, D, E",
 				"answerD": "Không là giá trị nào trong các trường hợp trên",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "IPv6 có không gian địa chỉ là:",
@@ -1924,7 +1924,7 @@
 				"answerB": "64 bit",
 				"answerC": "128 bit",
 				"answerD": "256 bit",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Gói tin IPv6 có bao nhiêu byte trong phần tiêu đề:",
@@ -1933,7 +1933,7 @@
 				"answerB": "30 byte",
 				"answerC": "40 byte",
 				"answerD": "50 byte",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Đâu là biểu diễn của một địa chỉ IPv6:",
@@ -1942,7 +1942,7 @@
 				"answerB": "1080:0000:0000:0008:0800:200C:417A",
 				"answerC": "1080:0000:0000:0000:0000:0008:0800:200C:417A",
 				"answerD": "1080:0008:0800:200C:417A",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Đâu là biểu diễ dạng rút gọn của địa chỉ IPv6: 2001:0F68:0000:0000:0000:0000:1986:69AF",
@@ -1951,7 +1951,7 @@
 				"answerB": "2001:F68::1986:69AF",
 				"answerC": "Cả hai biểu diễn trên đều đúng",
 				"answerD": "Cả hai biểu diễn trên đều sai",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Frame là dữ liệu ở tầng:",
@@ -1960,7 +1960,7 @@
 				"answerB": "Network",
 				"answerC": "Data Link",
 				"answerD": "Transport",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Kiểm soát lỗi và kiểm soát luồng dữ liệu được thực hiện bởi:",
@@ -1969,7 +1969,7 @@
 				"answerB": "Tầng liên kết dữ liệu",
 				"answerC": "Tầng vật lý",
 				"answerD": "Tầng phiên",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức nào dùng để chuyển đổi từ địa chỉ IP sang địa chỉ MAC:",
@@ -1978,7 +1978,7 @@
 				"answerB": "RARP",
 				"answerC": "ICMP",
 				"answerD": "TCP",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Tiến trình cho phép host tự động lấy địa chỉ IP cho nó từ server khi kết nối vào mạng:",
@@ -1987,7 +1987,7 @@
 				"answerB": "Host gửi thông điệp \"DHCP request\" -> DHCP server gửi \"DHCP ack\" -> host broadcasts thông điệp \"DHCP discover\" -> HDCP server đáp ứng với \"DHCP offer\"",
 				"answerC": "Host broadcasts thông điệp \"DHCP discover\" -> DHCP server gửi \"DHCP ack\" -> host gửi thông điệp \"DHCP request\" -> DHCP server đáp ứng với \"DHCP offer\"",
 				"answerD": "Host gửi thông điệp \"DHCP request\" -> DHCP server đáp ứng với \"DHCP offer\" -> host broadcasts thông điệp \"DHCP discover\" -> DHCP server gửi \"DHCP ack\"",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "CMSA/CD là phương pháp truy nhập ngẫu nhiên sử dụng cho mạng có cấu trúc hình:",
@@ -1996,7 +1996,7 @@
 				"answerB": "BUS",
 				"answerC": "Vòng (RING)",
 				"answerD": "Lai ghép BUS-STAR",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "CSMA/CD là viết tắt của:",
@@ -2005,7 +2005,7 @@
 				"answerB": "Carrier Sense Multiple Access/ Collision Deterence",
 				"answerC": "Carrier Sense Multiple Access/ Collision Detection",
 				"answerD": "Collision Sense Multiple Access/Carrier Detection",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Ba byte đầu tiên của địa chỉ MAC cho biết thông tin gì:",
@@ -2014,7 +2014,7 @@
 				"answerB": "Vùng địa lý của card mạng",
 				"answerC": "Số hiệu phiên bản của card mạng",
 				"answerD": "Tất cả các câu trên đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trang thiết bị mạng nào dùng để nối các mạng và kiểm soát được broadcast:",
@@ -2023,7 +2023,7 @@
 				"answerB": "Bridge",
 				"answerC": "Router",
 				"answerD": "Hub",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Địa chỉ nào dưới đây là địa chỉ tầng 2 (địa chỉ MAC):",
@@ -2041,7 +2041,7 @@
 				"answerB": "Truy cập ngẫu nhiên (random access)",
 				"answerC": "Lần lượt (taking turn)",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Phương pháp truy cập nào dưới đây lắng nghe lưu thông mạng trên đường truyền trước khi truyền dữ liệu:",
@@ -2050,7 +2050,7 @@
 				"answerB": "CSMA/CA",
 				"answerC": "Token TING",
 				"answerD": "Token BUS",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chuẩn nào dưới đây đặc tả về chuẩn kiến trúc mạng cục bộ cho Ethernet, bao gồm các chuẩn tầng vật lý và tầng con MAC:",
@@ -2059,7 +2059,7 @@
 				"answerB": "IEEE802.3",
 				"answerC": "Token Bus",
 				"answerD": "Token Ring",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Địa chỉ vật lý (MAC Address) nào sau đây là không đúng:",
@@ -2068,7 +2068,7 @@
 				"answerB": "00-2A-43-3E-33-A0",
 				"answerC": "00-4G-43-26-36-0D",
 				"answerD": "00-C0-9F-C3-27-F6",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Thiết bị Hub cho phép:",
@@ -2077,7 +2077,7 @@
 				"answerB": "Ngăng không cho các packet thuộc loại Broadcast đi qua nó",
 				"answerC": "Giúp định tuyến cho các packet",
 				"answerD": "Kết nối nhiều máy tính lại với nhau để tạo thành một nhánh LAN (segment)",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Máy tinh A và Z có địa chỉ trên 2 SUBNET khác nhau. Điều gì xảy ra khi máy tính A gửi broadcasts (ARP request) đi tìm địa chỉ MAC của máy tính Z:",
@@ -2095,7 +2095,7 @@
 				"answerB": "Tất cả các máy tính trong mạng đều nhận được yêu cầu (ARP request) và tất cả sẽ trả lời A với địa chỉ MAC của B",
 				"answerC": "Tất cả các máy tính trong mạng đều nhận được yêu cầu (ARP request) nhưng chỉ B mới trả lời A với địa chỉ MAC của mình",
 				"answerD": "Các Router gần nhất nhận được yêu cầu (ARP request) sẽ trả lời A với địa chỉ MAC của B hoặc sẽ gửi tiếp yêu cầu này tới các router khác (forwards the request to another router)",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Trong mô hình OSI, việc xác định địa chỉ vậy lý từ địa chỉ logic là trách nhiệm của:",
@@ -2104,7 +2104,7 @@
 				"answerB": "Tầng liên kết dữ liệu",
 				"answerC": "Tầng mạng",
 				"answerD": "Tầng giao vận",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Dịch vụ nào sau đây mà tầng liên kết dữ liệu phải cung cấp:",
@@ -2131,7 +2131,7 @@
 				"answerB": "Liên kết dữ liệu",
 				"answerC": "Mạng",
 				"answerD": "Vận chuyển",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Công nghệ Ethernet sử dụng phương pháp truy nhập đường truyền nào sau đây:",
@@ -2140,7 +2140,7 @@
 				"answerB": "ALOHA",
 				"answerC": "CSMA/CD",
 				"answerD": "TDMA",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Phát biểu nào sau đây là đúng nhất cho Switch:",
@@ -2149,7 +2149,7 @@
 				"answerB": "Sử dụng địa chỉ vậy lý và hoạt động tại tầng Network của mô hình OSI",
 				"answerC": "Sử dụng địa chỉ vậy lý và hoạt động tại tầng DataLink của mô hình OSI",
 				"answerD": "Sử dụng địa chỉ IP và hoạt động tại tầng Network của mô hình OSI",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Điều gì sẽ xảy ra với dữ liệu khi có xung đột (collision) trong quá trình truyền dữ liệu:",
@@ -2158,7 +2158,7 @@
 				"answerB": "Dữ liệu sẽ bị phá hỏng",
 				"answerC": "Dữ liệu sẽ được khôi phục lại tại máy nhận",
 				"answerD": "Cả A và C đúng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Công nghệ LAN nào sử dụng kỹ thuật CSMA/CD:",
@@ -2167,7 +2167,7 @@
 				"answerB": "Ethernet",
 				"answerC": "FDDI",
 				"answerD": "Tất cả các câu trên",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Trang thiết bị mạng nào sau đây làm giảm bớt sự xung đột (collision):",
@@ -2176,7 +2176,7 @@
 				"answerB": "NIC",
 				"answerC": "Switch",
 				"answerD": "Transceiver",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Để hạn chế sự đụng độ (collision) của các gói tin trên mạng, người ta chia mạng thành các mạng nhỏ hơn và kết nối chúng lại bằng các thiết bị:",
@@ -2185,7 +2185,7 @@
 				"answerB": "Hub",
 				"answerC": "Switch",
 				"answerD": "Card mạng (NIC)",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Chuỗi số \"00-08-ac-41-5d-9f\" có thể là:",
@@ -2194,7 +2194,7 @@
 				"answerB": "Địa chỉ port",
 				"answerC": "Địa chỉ MAC",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Địa chỉ nào được Switch sử dụng khi quyết định gửi data sang cổng (port) nào:",
@@ -2203,7 +2203,7 @@
 				"answerB": "Destination MAC address",
 				"answerC": "Network address",
 				"answerD": "Subnetwork address",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Dịch vụ nào sau đây mà tầng liên kết dữ liệu phải cung cấp:",
@@ -2212,7 +2212,7 @@
 				"answerB": "Định tuyến",
 				"answerC": "Mã hóa các bit thành các tín hiệu vật lý",
 				"answerD": "Tạo đường truyền tin cậy",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Giả sử có một Hệ thống 2 LAN segment được kết nối với nhau qua một router là máy tính. Máy tính đóng vai trò Router có bao nhiêu card mạng:",
@@ -2221,7 +2221,7 @@
 				"answerB": "2",
 				"answerC": "3",
 				"answerD": "4",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Chọn định nghĩa đúng về địa chỉ MAC:",
@@ -2230,7 +2230,7 @@
 				"answerB": "Do người quản trị mạng khai báo",
 				"answerC": "Câu A và B đúng",
 				"answerD": "Tất cả đều đúng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Công nghệ nào sau đây có độ dài của khung dữ liệu cố định:",
@@ -2248,7 +2248,7 @@
 				"answerB": "128 byte",
 				"answerC": "512 byte",
 				"answerD": "1500 byte",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "ATM có tốc độ trao đổi thông tin từ:",
@@ -2266,7 +2266,7 @@
 				"answerB": "TCP và UDP",
 				"answerC": "TCP và IP",
 				"answerD": "ARP và RARP",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Fast Ethernet còn được gọi là:",
@@ -2284,7 +2284,7 @@
 				"answerB": "100 Mbps",
 				"answerC": "1000 Mbps",
 				"answerD": "10 Gbps",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Kỹ thuật mạng LAN Fast Ethernet có tốc độ truyền dữ liệu cơ bản là:",
@@ -2293,7 +2293,7 @@
 				"answerB": "100 Mbps",
 				"answerC": "1.000 Mbps",
 				"answerD": "10.000 Mbps",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Chuẩn WLAN 802.11b/g có tốc độ truyền dữ liệu tương ứng là:",
@@ -2302,7 +2302,7 @@
 				"answerB": "11/54 Mbps",
 				"answerC": "11/108 Mbps",
 				"answerD": "2/54 Mbps",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Tần số hoạt động của chuẩn WLAN 802.11g là:",
@@ -2311,7 +2311,7 @@
 				"answerB": "2,3 Ghz",
 				"answerC": "2,4 Ghz",
 				"answerD": "2,5 Ghz",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Đường truyền tín hiệu tương tự, đường truyền âm thoại chuẩn được sử dụng tron các cuộc giao tiếp qua điện thoại gọi là đường truyền:",
@@ -2320,7 +2320,7 @@
 				"answerB": "Tín hiệu số trực tiếp",
 				"answerC": "Any-to-Any",
 				"answerD": "Chuyên dụng (thuê bao)",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chức năng của Proxy là gi:",
@@ -2329,7 +2329,7 @@
 				"answerB": "Là một thiết bị thống kê lưu lượng mạng",
 				"answerC": "Tất cả đều đúng",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Trình điều khiển (driver) là:",
@@ -2338,7 +2338,7 @@
 				"answerB": "Phần mềm",
 				"answerC": "Thiết bị ngoại vi",
 				"answerD": "Card",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Giao thức nào trong các giao thức sau dùng trong mô hình mạng WAN:",
@@ -2392,7 +2392,7 @@
 				"answerB": "Dạng từ chối dịch vụ",
 				"answerC": "Phủ nhận",
 				"answerD": "Không được quyền truy xuất",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Firewall là một hệ thống kiểm soát, ngăn chặn:",
@@ -2401,7 +2401,7 @@
 				"answerB": "Sử dụng tài nguyên mạng",
 				"answerC": "Quyền truy xuất thông tin",
 				"answerD": "Gián điệp",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Một bộ lọc packet (cài đặt trên firewall) có thể:",
@@ -2410,7 +2410,7 @@
 				"answerB": "Cho phép FTP client ở bên trong có thể truy cập tới FTP server bên ngoài mà máy tính bên trong không bị hack",
 				"answerC": "Cho phép FTP client ở bên ngoài có thể truy cập tới FTP server bên trong mà máy tính bên trong không bị hack",
 				"answerD": "Tất cả đều đúng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chức thực là:",
@@ -2419,7 +2419,7 @@
 				"answerB": "Người gửi và người nhận xác định là nhận ra nhau",
 				"answerC": "Người gửi và người nhận muốn đảm bảo thông điệp không bị thay đổi",
 				"answerD": "Các dịch vụ phải có khả năng truy nhập và sẵn sàng với người dùng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Sự toàn vẹn thông điệp là:",
@@ -2428,7 +2428,7 @@
 				"answerB": "Người gửi và người nhận xác định là nhận ra nhau",
 				"answerC": "Người gửi và người nhận muốn đảm bảo thông điệp không bị thay đổi",
 				"answerD": "Các dịch vụ phải có khả năng truy nhập và sẵn sàng với người dùng",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "DES (Data Encryption Standard) được sử dụng trong:",
@@ -2437,7 +2437,7 @@
 				"answerB": "Mã hóa khóa công khai",
 				"answerC": "Cả mã hóa khóa đối xứng và mã hóa khóa công khai",
 				"answerD": "Tất cả các phương án trên đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Giải thuật RSA được sử dụng trong:",
@@ -2446,7 +2446,7 @@
 				"answerB": "Mã hóa khóa công khai",
 				"answerC": "Cả mã hóa khóa đối xứng và mã hóa khóa công khai",
 				"answerD": "Tất cả các phương án trên đều sai",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Sử dụng lệnh IPconfig khi muốn:",
@@ -2455,7 +2455,7 @@
 				"answerB": "Biết trạng thái cấu hình TCP/IP của máy tính (cấu hình về các card mạng)",
 				"answerC": "Phân tích gói tin nhằm giải quyết một vấn đề của mạng",
 				"answerD": "Kiểm tra lỗi mạng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Lệnh Tracert dùng đề:",
@@ -2464,7 +2464,7 @@
 				"answerB": "Biết trạng thái cấu hình TCP/IP của máy tính (cấu hình về các card mạng)",
 				"answerC": "Phân tích gói tin nhằm giải quyết một vấn đề của mạng",
 				"answerD": "Kiểm tra lỗi mạng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Lệnh Netstat dùng để:",
@@ -2482,7 +2482,7 @@
 				"answerB": "ip là địa chỉ IP của thiết bị đầu cuối, host là tên thiết bị đầu cuối, port là cổng để giao tiếp với thiết bị đầu cuối",
 				"answerC": "ip là địa chỉ IP của thiết bị nguồn, host là tên thiết bị nguồn, port là cổng nguồn",
 				"answerD": "ip là địa chỉ IP của thiết bị nguồn, host là tên thiết bị đầu cuối, port là cổng nguồn",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Wireshark là một công cụ để:",
@@ -2491,7 +2491,7 @@
 				"answerB": "Xác định đường đi của các gói tin từ nguồn đến đích",
 				"answerC": "Phân tích gói tin nhằm giải quyết một vấn đề cụ thể của mạng",
 				"answerD": "Truy nhập từ xa",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Lện nào sẽ hiển thị kết quả dưới đây: Reply from 74.125.128.102: byte=32 time=50ms TTL=45 Packets: Sent = 4, Received = 4, Lost = 0 <0 % lost> Approximate round trip times in milli-seconds: Minimum = 50ms, Maximum = 56ms, Average = 52ms",
@@ -2500,7 +2500,7 @@
 				"answerB": "Tracert",
 				"answerC": "Telnet",
 				"answerD": "Ipconfig",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Lện nào sẽ hiển thị kết quả dưới đây: Proto Local Address Foreign Address State TCP 0.0.0.0:7 nam-PC:0 LISTENING",
@@ -2509,7 +2509,7 @@
 				"answerB": "Tracert",
 				"answerC": "Netstat",
 				"answerD": "Ipconfig",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Công cụ nào sẽ hiển thị các thông tin như dưới đây: ...",
@@ -2527,7 +2527,7 @@
 				"answerB": "Ping -a",
 				"answerC": "Tracert",
 				"answerD": "Netstat",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Lện nào sau đây cho biết địa chỉ IP của máy tính:",
@@ -2536,7 +2536,7 @@
 				"answerB": "IPCONFIG",
 				"answerC": "TCP_IP",
 				"answerD": "FTP",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Lệnh PING dùng để:",
@@ -2545,7 +2545,7 @@
 				"answerB": "Kiểm tra các máy tính trong mạng có liên thông không",
 				"answerC": "Kiểm tra các máy tính có hoạt động tốt hay không",
 				"answerD": "Kiểm tra các may tính có truy cập vào Internet không",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Lệnh nào dưới đây được dùng để xác định đường truyền (trong hệ điều hành Windows):",
@@ -2563,7 +2563,7 @@
 				"answerB": "ARP",
 				"answerC": "Ping",
 				"answerD": "Netstat",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Những khẳng định nào sau đây là đúng khi nói về các mô hình kết nối ADSL:",
@@ -2581,7 +2581,7 @@
 				"answerB": "Ngẫu nhiên",
 				"answerC": "Tuần tự",
 				"answerD": "Đối xứng",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Khi quên mật khẩu của ADSL Router, làm cách nào để khôi phục mật khẩu mặc định:",
@@ -2590,7 +2590,7 @@
 				"answerB": "Cấp điện cho ADSL Router và ấn giữ nút Reset trong một khoảng thời gian nhất định",
 				"answerC": "Dùng software để dò Username và Password",
 				"answerD": "Không thể khôi phục mật khẩu mặc định",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Thực hiện cấu hình ADSL Router để kết nối Internet, những thông số cơ bản cần thiết lập là:",
@@ -2599,7 +2599,7 @@
 				"answerB": "DHCP Service",
 				"answerC": "Câu a và b đúng",
 				"answerD": "Tất cả các câu trên đều sai",
-				"answer": "answerC"
+				"answer": "C"
 			},
 			{
 				"question": "Trang thiết bị mạng trung tâm dùng để kết nối các máy tính trong mạng hình sao (STAR):",
@@ -2608,7 +2608,7 @@
 				"answerB": "Router",
 				"answerC": "Repeater",
 				"answerD": "NIC",
-				"answer": "answerA"
+				"answer": "A"
 			},
 			{
 				"question": "Chương trình Traceroute sử dụng các giao thức nào:",
@@ -2617,7 +2617,7 @@
 				"answerB": "UDP và ICMP",
 				"answerC": "TCP và ICMP",
 				"answerD": "IGMP",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Thiết bị Bridge cho phép:",
@@ -2626,7 +2626,7 @@
 				"answerB": "kết nối 2 mạng LAN lại với nhau đồng thời đóng vai trò như một bộ lọc (filter): chỉ cho phép các packet, mà địa chỉ nằm ngoài nhánh LAN mà packet xuất phát, đi qua",
 				"answerC": "Tằng cường tín hiệu điện để mở rộng đoạn mạng",
 				"answerD": "Cả A, B, C đều đúng",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Moderm dùng để:",
@@ -2644,7 +2644,7 @@
 				"answerB": "!md test",
 				"answerC": "Md Test",
 				"answerD": "Mkdir test",
-				"answer": "answerB"
+				"answer": "B"
 			},
 			{
 				"question": "Trong các cơ chế sau đây, cơ chế nào được sử dụng để cài đặt Web cache:",
@@ -2662,8 +2662,9 @@
 				"answerB": "Đổi vị trí các sợi 1, 2 với sợi 3, 6",
 				"answerC": "Một đầu bấm theo chuẩn TIA/EIA T568A, đầu kia theo chuẩn TIA/EIA T568-B",
 				"answerD": "Tất cả đều sai",
-				"answer": "answerA"
+				"answer": "A"
 			}
 		]
 	
+}
 }
